@@ -5,11 +5,6 @@
 
 - Cette analyse comprend des données historiques, des tendances du marché et des caractéristiques des propriétés pour fournir des prédictions précises sur les prix.
 
-## ⏳ Dataset 
-Téléchargez le jeu de données pour l'entraînement personnalisé [ici](data/).
-
-Le jeu de données comprend des informations historiques sur les propriétés, les prix de vente, les caractéristiques des biens et des tendances du marché.
-
 ## 🗂️ Structure du Projet
 
 Le projet est organisé dans les répertoires et fichiers suivants :
