@@ -1,0 +1,97 @@
+section {
+  padding: 0;
+}
+.analyse {
+  padding: 2rem 9%;
+  padding-top: 90px;
+  font-size: 125%;
+}
+@media (max-width: 691px) {
+  .analyse {
+    padding: 2rem 5%;
+    padding-top: 90px;
+    font-size: 125%;
+  }
+}
+
+.analyse-container {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  border-radius: 3px;
+  background: #fff;
+  border: 0.1rem solid rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
+/* ------------------------------- *\
+            *_* analyse-powerbi *_*
+\* ------------------------------- */
+.analyses {
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 3px;
+}
+.analysis-item {
+  border: 1px olivedrab solid;
+  padding: 20px;
+  margin-top: 30px;
+  border-radius: 10px;
+  display: flex;
+  gap: 10px;
+  flex-direction: row-reverse;
+}
+img {
+  width: 380px;
+  height: 100%;
+  display: inline-block;
+}
+.analysis-item h1 {
+  font-size: 2rem;
+}
+/* ------------------------------- *\
+            *_* power-bi *_*
+\* ------------------------------- */
+.power-bi {
+  width: 100%;
+  /* box-shadow: var(--shadow-1); */
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 3px;
+}
+.insights ul {
+  border-left: #99a3ba solid 1px;
+  padding-left: 20px;
+  margin: 7px 10px;
+}
+.interactive h2 {
+  margin: 8px 8px 20px;
+}
+.analyse-powerbi iframe {
+  width: 100%;
+}
+/* ------------------------------- *\
+            *_* media *_*
+    \* ------------------------------- */
+@media (max-width: 715px) {
+  .main-container {
+    padding: 0;
+  }
+  .analysis-item {
+    display: flex;
+    flex: 1 1 auto;
+  }
+}
+@media (max-width: 810px) {
+  .analysis-item img {
+    width: 100%;
+  }
+  .analysis-item {
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 560px) {
+  .analyse {
+    padding: 4rem 2%;
+  }
+}

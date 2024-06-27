@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/tom-select@2.0.0-rc.4/dist/css/tom-select.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/tom-select@2.0.0-rc.4/dist/js/tom-select.complete.min.js"></script>
+    <link rel="stylesheet" href="../static/style.css">
+    <!-- <link rel="stylesheet" href="../static/all.min.css"> -->
+    <link rel="stylesheet" href="../static/predict.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <a href="#" class="logo"><span>real</span>Estate</a>   
+        <nav class="navbar">
+          <a href="/">home</a>
+          <a href="Prediction" class="active">Prédiction</a>
+          <a href="analyse" >analyse</a>
+          <a href="about" >about</a>
+          <a href="contact">contact</a>
+      </nav>
+        <div class="icons">
+            <div id="menu-bars" class="fas fa-bars"></div>
+        </div>
+    </header>
+    <div>
+      <button class="table" onclick="showTable()"><i class="fa-solid fa-table"></i></button>
+      <div class="tableFixHead" style="overflow-x:auto; width: 0px; visibility: hidden;">
+        <table border="1" id="real-estate-table">
+            <thead>
+                <tr>
+                    <th>City</th>
+                    <th>Localisation</th>
+                    <th>Type</th>
+                    <th>Area</th>
+                    <th>Rooms</th>
+                    <th>Bedrooms</th>
+                    <th>Bathrooms</th>
+                    <th>Floor</th>
+                    <th>Current_state</th>
+                    <th>Age</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Rows will be inserted here by JavaScript -->
+            </tbody>
+        </table>
+    </div>
+    
+    </div>
+    <section class="predict" id="predict">
+      <!-- <button class="table" onclick="showTable()"><i class="fa-solid fa-table"></i></button> -->
+        <div class="top-container">
+          <h1>Prédiction des Prix Immobiliers au Maroc</h1>
+          <p>
+              Utilisez notre outil pour prédire les prix des biens immobiliers à Casablanca.
+          </p>
+          </div>
+          <div class="signup-container">
+            <div class="left-container">
+              <div class="result-container">
+                <h2>Résultat de la Prédiction :</h2>
+                <p id="predicted-price">Price : 000 000 DH</p>
+                <p id="score-price"></p>
+                <button class="show-details-btn" onClick="toggleDetails()">Afficher les Détails du Modèle</button>
+                <div id="model-details" style="height: 0px;">
+                  <p><strong>Type de Modèle :</strong>Random Forest Regressor</p><hr>
+                  <p><strong>Variables Utilisées :</strong>Type, Localisation, City, Area, Rooms, Bedrooms, Bathrooms, Floor, Current_state, Age</p><hr>
+                  <p><strong>R² Score :</strong> 90%</p>
+                </div>
+              </div>
+            </div>
+            <div class="right-container">
+              <form action="/predict" method="post">
+                <div class="form-inputs">
+                  <div class="form-group">
+                    <label for="City" class="form-label">City</label>
+                    <select name="City" id="City" class="form-field" disabled onchange="populateAreas()" >
+                      <option value="casablanca">casablanca</option>
+                      <option value="rabat">rabat</option>
+                      <option value="tanger">tanger</option>
+                      <option value="marrakech">marrakech</option>
+                      <option value="agadir">agadir</option>
+                      <option value="martil">martil</option>
+                    </select>
+                  </div>
+                    <div class="form-group">
+                      <label for="Localisation" class="form-label">Localisation</label>
+                      <select id="select-state" placeholder="Localisation">
+                        <option value="Search">Search</option>
+                      </select>
+                    </div>  
+                    <div class="form-group">
+                      <label for="Type" class="form-label">Type</label>
+                      <select name="Type" id="Type" class="form-field" onchange="checkType()">
+                          <option value="Appartements">Appartements</option>
+                          <option value="Villas">Villas</option>
+                          <option value="maisons">maisons</option>
+                      </select>
+                  </div>
+                  <div class="form-group">
+                    <label for="Area" class="form-label">Area</label>
+                    <input type="number" value="22" class="form-field" min="20" step="" placeholder="Area" name="Area" id="Area" />
+                  </div>
+                  <div class="form-group">
+                    <label for="Rooms" class="form-label">Rooms</label>
+                    <input type="number" value="2" class="form-field" min="0" placeholder="3" name="Rooms" id="Rooms" />
+                  </div>
+                  <div class="form-group">
+                    <label for="Bedrooms" class="form-label">Bedrooms</label>
+                    <input type="number" value="3" class="form-field" min="0" placeholder="3" name="Bedrooms" id="Bedrooms" />
+                  </div>
+                  <div class="form-group">
+                    <label for="Bathrooms" class="form-label">Bathrooms</label>
+                    <input type="number" value="2" class="form-field" min="0" placeholder="3" name="Bathrooms" id="Bathrooms" />
+                  </div>
+                  <div class="form-group">
+                    <label for="Floor" class="form-label">Floor</label>
+                    <input type="number" value="2" class="form-field" min="0" placeholder="3" name="Floor" id="Floor"/>
+                </div>
+                  <div class="form-group">
+                    <label for="Current_state" class="form-label">Current_state</label>
+                    <select name="Current_state" id="" class="form-field">
+                      <option value="Non Specifique">Non Specifique</option>
+                      <option value="Bon état">Bon état</option>
+                      <option value="Nouveau">Nouveau</option>
+                      <option value="À rénover">À rénover</option>
+                    </select>
+                  </div>
+                  <div class="form-group">
+                    <label for="Age" class="form-label">Age</label>
+                    <select name="Age" id="" class="form-field">
+                      <option value="Non Specifique">Non Specifique</option>
+                      <option value="Moins d'un an">Moins d'un an</option>
+                      <option value="1-5 ans">1-5 ans</option>
+                      <option value="5-10 ans">5-10 ans</option>
+                      <option value="10-20 ans">10-20 ans</option>
+                    </select>
+                  </div>
+                </div>
+                <footer>
+                  <!-- <button id="back">Back</button> -->
+                  <div class="btn-primary">
+                    <button type="submit">Predict Price</button>
+                  </div>
+                </footer>
+              </form>
+            </div>
+          </div>
+    </section>
+    <script>
+      function checkType() {
+            var typeSelect = document.getElementById("Type");
+            var floorInput = document.getElementById("Floor");
+
+            if (typeSelect.value !== "Appartements") {
+                floorInput.value = 0;
+                floorInput.disabled = true;
+            } else {
+                floorInput.disabled = false;
+            }
+        }
+    </script>
+     <script src="https://cdn.jsdelivr.net/npm/tom-select@2.0.0-rc.4/dist/js/tom-select.complete.min.js"></script>
+     <script src="../static/main.js"></script>
+</body>
+</html>
+
+<script>
+  const realEstateData = [
+      {
+          "City": "Casablanca",
+          "Localisation": "Oasis",
+          "Type": "Appartements",
+          "Area": 99.0,
+          "Rooms": 4.0,
+          "Bedrooms": 3.0,
+          "Bathrooms": 0.0,
+          "Floor": 3.0,
+          "Current_state": "Non Specifique",
+          "Age": "Non Specifique",
+          "Price": 1822250.0
+      },
+      {
+          "City": "Casablanca",
+          "Localisation": "Californie",
+          "Type": "Villas",
+          "Area": 450.0,
+          "Rooms": 5.0,
+          "Bedrooms": 4.0,
+          "Bathrooms": 5.0,
+          "Floor": 0,
+          "Current_state": "Non Specifique",
+          "Age": "Non Specifique",
+          "Price": 7200000.0
+      },
+      {
+          "City": "Casablanca",
+          "Localisation": "Anfa",
+          "Type": "Appartements",
+          "Area": 86.0,
+          "Rooms": 3.0,
+          "Bedrooms": 2.0,
+          "Bathrooms": 2.0,
+          "Floor": 1.0,
+          "Current_state": "Bon état",
+          "Age": "10-20 ans",
+          "Price": 1230000.0
+      },
+      {
+          "City": "Casablanca",
+          "Localisation": "La Gironde",
+          "Type": "Appartements",
+          "Area": 86.0,
+          "Rooms": 3.0,
+          "Bedrooms": 2.0,
+          "Bathrooms": 1.0,
+          "Floor": 5.0,
+          "Current_state": "Bon état",
+          "Age": "10-20 ans",
+          "Price": 900000.0
+      }
+      // ... (les autres objets)
+  ];
+
+  const tableBody = document.querySelector('#real-estate-table tbody');
+
+  realEstateData.forEach(item => {
+      const row = document.createElement('tr');
+
+      Object.values(item).forEach(text => {
+          const cell = document.createElement('td');
+          cell.textContent = text;
+          row.appendChild(cell);
+      });
+
+      tableBody.appendChild(row);
+  });
+</script>

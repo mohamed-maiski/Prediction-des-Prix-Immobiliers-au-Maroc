@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"> -->
+    <link rel="stylesheet" href="../static/style.css">
+    <!-- <link rel="stylesheet" href="../static/all.min.css"> -->
+    <link rel="stylesheet" href="../static/contact.css">
+</head>
+<body>
+    <header>
+        <a href="#" class="logo"><span>real</span>Estate</a>   
+        <nav class="navbar">
+            <a href="/">home</a>
+            <a href="Prediction">Prédiction</a>
+            <a href="analyse">analyse</a>
+            <a href="about">about</a>
+            <a href="contact" class="active">contact</a>
+        </nav>
+        <div class="icons">
+            <div id="menu-bars" class="fas fa-bars"></div>
+        </div>
+    </header>
+    <section class="contact" id="contact">
+        <div class="section-subtitle">Contact</div>
+        <div class="icons-container">
+            <div class="container">
+                <div class="row">
+                    <div class="col wow fadeIn" data-wow-delay="0.1s">
+                        <div class="card">
+                            <div class="content">
+                                <div class="icon">
+                                    <i class="fa fa-map-marker-alt text-primary"></i>
+                                </div>
+                                <span>Hay Tighnari,Fkih Ben Salah</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col wow fadeIn" data-wow-delay="0.3s">
+                        <div class="card">
+                            <div class="content">
+                                <div class="icon">
+                                    <i class="fa fa-envelope-open text-primary"></i>
+                                </div>
+                                <span>contact@realestate.com</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col wow fadeIn" data-wow-delay="0.5s">
+                        <div class="card">
+                            <div class="content">
+                                <div class="icon">
+                                    <i class="fa fa-phone-alt text-primary"></i>
+                                </div>
+                                <span>+212 682 236 56</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row">
+            <form action="" method="post">
+                <div id="error-contact"></div>
+                <div class="inputBox">
+                    <input type="text" placeholder="Nom" name="nom" required >
+                    <input type="text" placeholder="Prenom" name="prenom" required>
+                </div>
+                <div class="inputBox">
+                    <input type="email" placeholder="Email" name="Email" required>
+                    <input type="text" placeholder="Object" name="Object" required>
+                </div>
+                <textarea name="Message" placeholder="Message" id="" cols="30" rows="10" required></textarea>
+                <input type="submit" value="envoyer" class="btn">
+            </form>
+            <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3364.375283886626!2d-6.6669544618426775!3d32.51612248757384!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda46bc6644b9563%3A0x6ee82fe090e3e2f6!2sEST%20%3A%20%C3%89cole%20Sup%C3%A9rieure%20de%20FBS!5e0!3m2!1sfr!2sma!4v1716649762847!5m2!1sfr!2sma"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+        </section>
+        
+        <script src="../static/main.js"></script>
+</body>
+</html>
+<script>
+    
+//? ------------------------------------------------------------------
+//? --------------------  Contact form  ------------------------------
+//? ------------------------------------------------------------------
+document.addEventListener("DOMContentLoaded", function () {
+    const form = document.querySelector("form");
+    form.addEventListener("submit", function (event) {
+      event.preventDefault(); // Empêche le rechargement de la page
+
+      const formData = new FormData(form);
+
+      fetch("/SendContact", {
+        method: "POST",
+        body: formData,
+      })
+        .then((response) => response.text())
+        .then((data) => {
+          const jsonData = JSON.parse(data);
+          document.getElementById("error-contact").innerHTML = jsonData.Contact;
+          console.log(jsonData.Contact)
+          document.getElementById("error-contact").style.display = "block";
+        })
+        .catch((error) => {
+          console.error("Error:", error);
+        });
+    });
+  });
+</script>
+
+

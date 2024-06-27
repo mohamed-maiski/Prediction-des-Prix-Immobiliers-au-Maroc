@@ -1,0 +1,187 @@
+.contact {
+  padding-top: 100px;
+}
+.contact .icons-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  padding-bottom: 2rem;
+}
+
+.contact .icons-container .icons {
+  flex: 1 1 25rem;
+  background: #fff;
+  padding: 2rem;
+  border: 0.1rem solid rgba(0, 0, 0, 0.2);
+  border-radius: 0.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.contact .icons-container .icons img {
+  height: 6rem;
+}
+
+.contact .icons-container .icons h3 {
+  font-size: 2.5rem;
+  color: #333;
+  padding: 1rem 0;
+}
+
+.contact .icons-container .icons p {
+  font-size: 1.5rem;
+  color: #666;
+  padding: 0.2rem 0;
+}
+
+.contact .row {
+  background: #fff;
+  border: 0.1rem solid rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+  border-radius: 0.5rem;
+  display: flex;
+  flex-wrap: wrap-reverse;
+  /* flex-wrap: wrap; */
+  padding: 1rem;
+}
+.contact .row:first-child {
+  flex-wrap: wrap;
+}
+
+.contact .row form {
+  flex: 1 1 50rem;
+  padding: 0.5rem 1rem;
+}
+
+.contact .row .map {
+  flex: 1 1 30rem;
+  width: 100%;
+  padding: 1rem;
+}
+
+.contact .row form .inputBox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.contact .row form textarea,
+.contact .row form .inputBox input {
+  margin-top: 1rem;
+  padding: 1rem;
+  font-size: 1.7rem;
+  color: #333;
+  background: #f7f7f7;
+  border-radius: 0.5rem;
+  text-transform: none;
+  width: 49%;
+}
+
+.contact .row form textarea {
+  width: 100%;
+  height: 20rem;
+  resize: none;
+}
+
+.contact .row form textarea:focus,
+.contact .row form .inputBox input:focus {
+  background-color: var(--light-red);
+}
+/* General Reset and Box-Sizing */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#error-contact {
+  border: #edececfe solid 1px;
+  text-align: center;
+  padding: 8px;
+  background-color: rgba(101, 253, 78, 0.701);
+  display: none;
+}
+
+/* Container and Row */
+.container {
+  width: 100%;
+  padding: 15px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+/* Column */
+.col {
+  flex: 1;
+  min-width: 250px; /* Adjust based on your preference */
+}
+
+/* Card */
+.card {
+  background-color: var(--light-red);
+  border-radius: 8px;
+  padding: 16px;
+}
+
+/* Content */
+.content {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border: 1px dashed rgba(0, 185, 142, 0.541);
+  border-radius: 8px;
+  padding: 16px;
+}
+.content span {
+  font-size: 1.38rem;
+}
+
+/* Icon */
+.icon {
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 16px;
+}
+
+/* FontAwesome Icon */
+.icon .fa {
+  color: var(--red); /* Primary color */
+  font-size: 20px;
+}
+
+/* .text-primary {
+        color: #0d6efd;
+    } */
+
+/* FadeIn Animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.wow {
+  animation: fadeIn 1s ease-in-out;
+}
+
+[data-wow-delay="0.1s"] {
+  animation-delay: 0.1s;
+}
+
+[data-wow-delay="0.3s"] {
+  animation-delay: 0.3s;
+}
+
+[data-wow-delay="0.5s"] {
+  animation-delay: 0.5s;
+}

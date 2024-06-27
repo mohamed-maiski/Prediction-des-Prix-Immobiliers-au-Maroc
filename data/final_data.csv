@@ -1,0 +1,1767 @@
+Type,Localisation,Price,City,Area,Rooms,Bedrooms,Bathrooms,Floor,Current_state,Age
+Appartements,Casablanca Finance City ,22000.0,Casablanca,219.0,4.0,3.0,3.0,11.0,Nouveau,Moins d'un an
+Appartements,Anfa ,1230000.0,Casablanca,86.0,3.0,2.0,2.0,1.0,Bon état,10-20 ans
+Appartements,La Gironde ,900000.0,Casablanca,86.0,3.0,2.0,1.0,5.0,Bon état,10-20 ans
+Appartements,Bourgogne Ouest ,2400000.0,Casablanca,180.0,5.0,3.0,3.0,3.0,Bon état,10-20 ans
+Appartements,Les princesses ,1550000.0,Casablanca,120.0,5.0,3.0,2.0,5.0,Bon état,5-10 ans
+Appartements,Bourgogne Ouest ,1450000.0,Casablanca,113.0,4.0,3.0,2.0,1.0,Bon état,10-20 ans
+Appartements,Triangle d'Or ,4800000.0,Casablanca,245.0,4.0,3.0,3.0,3.0,Bon état,10-20 ans
+Appartements,Maârif Extension ,1700000.0,Casablanca,110.0,3.0,2.0,2.0,0.0,Bon état,Non Specifique
+Appartements,Anassi ,330000.0,Casablanca,50.0,3.0,2.0,1.0,1.0,Bon état,5-10 ans
+Villas,Californie ,7500000.0,Casablanca,400.0,8.0,5.0,4.0,0.0,Bon état,Non Specifique
+Appartements,Triangle d'Or ,3600000.0,Casablanca,144.0,5.0,3.0,3.0,0.0,Bon état,Non Specifique
+Appartements,Maârif ,1750000.0,Casablanca,113.0,3.0,2.0,2.0,4.0,Nouveau,1-5 ans
+Appartements,Bourgogne Ouest ,2590000.0,Casablanca,100.0,3.0,2.0,3.0,6.0,Nouveau,Moins d'un an
+Appartements,Triangle d'Or ,3300000.0,Casablanca,121.0,3.0,1.0,2.0,10.0,Nouveau,Moins d'un an
+Appartements,Racine ,1300000.0,Casablanca,48.0,2.0,1.0,1.0,2.0,Nouveau,1-5 ans
+Appartements,Gauthier ,2900000.0,Casablanca,230.0,4.0,3.0,3.0,7.0,Bon état,10-20 ans
+Appartements,La Gironde ,1290000.0,Casablanca,105.0,7.0,2.0,2.0,1.0,Bon état,5-10 ans
+Appartements,Val Fleury ,2219000.0,Casablanca,124.0,8.0,3.0,3.0,3.0,Nouveau,Moins d'un an
+Appartements,Anfa ,2408000.0,Casablanca,165.0,6.0,4.0,2.0,9.0,Bon état,Non Specifique
+Appartements,Val Fleury ,2500000.0,Casablanca,137.0,4.0,3.0,3.0,2.0,Nouveau,Non Specifique
+Appartements,Gauthier ,1870000.0,Casablanca,107.0,4.0,3.0,2.0,6.0,Nouveau,Non Specifique
+Appartements,Maârif ,860000.0,Casablanca,51.0,2.0,1.0,1.0,2.0,Nouveau,Non Specifique
+Appartements,Gauthier ,2300000.0,Casablanca,88.0,3.0,2.0,2.0,3.0,Nouveau,Non Specifique
+Villas,Anfa ,11900000.0,Casablanca,625.0,6.0,5.0,6.0,0.0,À rénover,Non Specifique
+Villas,Anfa ,27000000.0,Casablanca,1000.0,6.0,6.0,7.0,0.0,À rénover,Non Specifique
+Appartements,Maârif Extension ,1200000.0,Casablanca,87.0,3.0,2.0,2.0,0.0,Bon état,Non Specifique
+Appartements,Les princesses ,930000.0,Casablanca,89.0,3.0,2.0,2.0,0.0,Bon état,Non Specifique
+Appartements,Val Fleury ,1290000.0,Casablanca,81.0,4.0,2.0,1.0,0.0,Bon état,Non Specifique
+Appartements,Beauséjour ,1125000.0,Casablanca,75.0,3.0,2.0,2.0,0.0,Nouveau,Non Specifique
+Appartements,Riviera ,1600000.0,Casablanca,80.0,4.0,3.0,2.0,0.0,Nouveau,Non Specifique
+Villas,Sidi Maarouf ,5500000.0,Casablanca,400.0,7.0,5.0,4.0,0.0,Bon état,Non Specifique
+Appartements,Val Fleury ,3000000.0,Casablanca,225.0,6.0,4.0,4.0,0.0,Bon état,Non Specifique
+Appartements,Val Fleury ,2200000.0,Casablanca,160.0,4.0,3.0,2.0,0.0,Bon état,Non Specifique
+Appartements,Ain Diab ,4500000.0,Casablanca,238.0,4.0,3.0,4.0,3.0,Nouveau,Non Specifique
+Appartements,Racine Extension ,3400000.0,Casablanca,198.0,4.0,3.0,3.0,4.0,Bon état,Non Specifique
+Appartements,Racine ,2800000.0,Casablanca,107.0,4.0,3.0,4.0,5.0,Nouveau,Non Specifique
+Villas,Californie ,45000000.0,Casablanca,4037.0,12.0,6.0,7.0,0.0,Bon état,Non Specifique
+Appartements,Gauthier ,4200000.0,Casablanca,244.0,4.0,3.0,4.0,6.0,Nouveau,Non Specifique
+Appartements,Gauthier ,4900000.0,Casablanca,446.0,6.0,5.0,4.0,6.0,Bon état,Non Specifique
+Appartements,Gauthier ,3400000.0,Casablanca,229.0,4.0,3.0,3.0,1.0,Bon état,Non Specifique
+Appartements,Gauthier ,4200000.0,Casablanca,200.0,4.0,3.0,3.0,1.0,Nouveau,Non Specifique
+Appartements,Ain Diab ,2256000.0,Casablanca,94.0,3.0,2.0,2.0,0.0,Bon état,Non Specifique
+Appartements,Casablanca Finance City ,2090000.0,Casablanca,99.0,3.0,2.0,2.0,3.0,Nouveau,Non Specifique
+Appartements,Racine ,3500000.0,Casablanca,183.0,5.0,3.0,2.0,4.0,Bon état,Non Specifique
+Appartements,Palmier ,3800000.0,Casablanca,258.0,7.0,4.0,3.0,4.0,Bon état,Non Specifique
+Appartements,Californie ,1558920.0,Casablanca,145.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,El Manar - El Hank ,1995968.0,Casablanca,97.0,4.0,3.0,2.0,0.0,Nouveau,Non Specifique
+Appartements,Oasis ,1540000.0,Casablanca,96.0,3.0,2.0,1.0,0.0,Nouveau,Non Specifique
+Appartements,Oasis ,1239000.0,Casablanca,59.0,3.0,2.0,1.0,1.0,Nouveau,Non Specifique
+Appartements,Oasis ,1239000.0,Casablanca,59.0,2.0,1.0,1.0,1.0,Nouveau,Non Specifique
+Appartements,Oasis ,1176000.0,Casablanca,56.0,2.0,1.0,1.0,1.0,Nouveau,Non Specifique
+Appartements,La Gironde ,1035000.0,Casablanca,90.0,4.0,3.0,2.0,5.0,Nouveau,Non Specifique
+Appartements,Hay Lmkansa ,1995968.0,Casablanca,82.0,3.0,2.0,2.0,3.0,Nouveau,Non Specifique
+Villas,CIL (Hay Salam) ,10400000.0,Casablanca,400.0,3.0,5.0,3.0,0.0,À rénover,Non Specifique
+Villas,Racine Extension ,3400000.0,Casablanca,122.0,5.0,3.0,2.0,0.0,Bon état,Non Specifique
+Villas,Les Crêtes ,9000000.0,Casablanca,800.0,5.0,4.0,3.0,0.0,Bon état,Non Specifique
+Villas,Sidi Maarouf ,3900000.0,Casablanca,330.0,6.0,5.0,4.0,0.0,Bon état,Non Specifique
+Appartements,Val Fleury ,1030000.0,Casablanca,77.0,3.0,2.0,2.0,0.0,Bon état,Non Specifique
+Appartements,Les princesses ,2200000.0,Casablanca,150.0,4.0,3.0,3.0,0.0,Bon état,Non Specifique
+Appartements,Maârif Extension ,1650000.0,Casablanca,113.0,4.0,3.0,2.0,0.0,Nouveau,Non Specifique
+Appartements,Les princesses ,1810000.0,Casablanca,121.0,4.0,2.0,2.0,0.0,Bon état,Non Specifique
+Appartements,Les princesses ,1950000.0,Casablanca,131.0,4.0,3.0,2.0,0.0,Bon état,Non Specifique
+Appartements,Les princesses ,2500000.0,Casablanca,130.0,4.0,3.0,2.0,0.0,Nouveau,Non Specifique
+Appartements,Les Hôpitaux ,1700000.0,Casablanca,155.0,4.0,3.0,2.0,0.0,Bon état,Non Specifique
+Appartements,Maârif ,920000.0,Casablanca,59.0,2.0,1.0,2.0,0.0,Nouveau,Non Specifique
+Appartements,Val Fleury ,1550000.0,Casablanca,121.0,3.0,2.0,1.0,0.0,Bon état,Non Specifique
+Appartements,Ain Diab ,5100000.0,Casablanca,230.0,8.0,3.0,2.0,0.0,Bon état,Non Specifique
+Appartements,Les princesses ,1570000.0,Casablanca,105.0,3.0,2.0,2.0,1.0,Bon état,Non Specifique
+Villas,Californie ,16000000.0,Casablanca,1076.0,6.0,5.0,6.0,0.0,Bon état,Non Specifique
+Appartements,Maârif ,1000000.0,Casablanca,66.0,3.0,2.0,1.0,2.0,Nouveau,Non Specifique
+Appartements,Californie ,2331280.0,Casablanca,181.0,4.0,3.0,3.0,0.0,Nouveau,Non Specifique
+Appartements,Californie ,1688960.0,Casablanca,104.0,3.0,2.0,2.0,1.0,Nouveau,Non Specifique
+Appartements,Californie ,1771840.0,Casablanca,113.0,4.0,3.0,2.0,3.0,Nouveau,Non Specifique
+Appartements,Californie ,1624000.0,Casablanca,100.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1760000.0,Casablanca,125.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,2090000.0,Casablanca,99.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1200000.0,Casablanca,51.0,2.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Maârif ,850000.0,Casablanca,40.0,2.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,2324380.0,Casablanca,125.0,4.0,3.0,0.0,1.0,Non Specifique,Non Specifique
+Appartements,Maârif ,2020750.0,Casablanca,100.0,4.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,1642500.0,Casablanca,91.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,1789000.0,Casablanca,96.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Anfa ,1050000.0,Casablanca,63.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Racine ,1950000.0,Casablanca,99.0,4.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Est ,2300000.0,Casablanca,160.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Maârif ,3500000.0,Casablanca,243.0,4.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,27000000.0,Casablanca,1180.0,7.0,4.0,6.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1200000.0,Casablanca,95.0,3.0,2.0,2.0,7.0,Non Specifique,Non Specifique
+Riad,Ain Diab Extension ,7300000.0,Casablanca,395.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,1750000.0,Casablanca,125.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,2754000.0,Casablanca,204.0,5.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,2300000.0,Casablanca,140.0,4.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,13000000.0,Casablanca,103.0,4.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,7900000.0,Casablanca,450.0,4.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,2500000.0,Casablanca,167.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1700000.0,Casablanca,93.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Hay Alamal ,800000.0,Casablanca,76.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Mers Sultan ,910000.0,Casablanca,91.0,4.0,3.0,2.0,7.0,Non Specifique,Non Specifique
+Appartements,Beauséjour ,1222000.0,Casablanca,106.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Californie ,1602050.0,Casablanca,96.0,4.0,3.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Californie ,1626460.0,Casablanca,106.0,4.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1691200.0,Casablanca,100.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,1547620.0,Casablanca,94.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1386000.0,Casablanca,63.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1298000.0,Casablanca,59.0,2.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,1884080.0,Casablanca,122.0,3.0,2.0,0.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,2687620.0,Casablanca,147.0,4.0,3.0,0.0,2.0,Non Specifique,Non Specifique
+Appartements,CIL (Hay Salam) ,1500000.0,Casablanca,102.0,4.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,1850000.0,Casablanca,82.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,3200000.0,Casablanca,200.0,6.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Racine ,1800000.0,Casablanca,82.0,5.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Californie ,1565360.0,Casablanca,136.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,1612120.0,Casablanca,112.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Oasis ,2701000.0,Casablanca,151.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Californie ,1539000.0,Casablanca,114.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Racine ,4300000.0,Casablanca,182.0,6.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,4200000.0,Casablanca,244.0,5.0,3.0,3.0,6.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,10900000.0,Casablanca,565.0,5.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,2790000.0,Casablanca,200.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Sidi Maarouf ,4800000.0,Casablanca,250.0,5.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Laymoune ,7800000.0,Casablanca,392.0,8.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3328000.0,Casablanca,228.0,3.0,3.0,3.0,3.0,Non Specifique,Non Specifique
+Villas,Californie ,5500000.0,Casablanca,256.0,6.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,2150000.0,Casablanca,131.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Villas,Ain Diab Extension ,13000000.0,Casablanca,608.0,6.0,5.0,6.0,0.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,10500000.0,Casablanca,600.0,6.0,6.0,6.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,17000000.0,Casablanca,780.0,10.0,7.0,8.0,0.0,Non Specifique,Non Specifique
+Appartements,CIL (Hay Salam) ,2400000.0,Casablanca,175.0,5.0,4.0,2.0,5.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,18525000.0,Casablanca,1235.0,10.0,7.0,8.0,0.0,Non Specifique,Non Specifique
+Villas,Les princesses ,14000000.0,Casablanca,1068.0,8.0,5.0,6.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,2350000.0,Casablanca,116.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Californie ,2282580.0,Casablanca,119.0,3.0,2.0,0.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,1865650.0,Casablanca,121.0,3.0,2.0,0.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,2464050.0,Casablanca,141.0,4.0,3.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,2758050.0,Casablanca,147.0,4.0,3.0,0.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,2340600.0,Casablanca,124.0,4.0,3.0,0.0,1.0,Non Specifique,Non Specifique
+Appartements,Californie ,2884800.0,Casablanca,164.0,4.0,3.0,0.0,1.0,Non Specifique,Non Specifique
+Appartements,Californie ,1911600.0,Casablanca,106.0,3.0,2.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,2735500.0,Casablanca,148.0,4.0,3.0,0.0,3.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,11700000.0,Casablanca,470.0,3.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,2500000.0,Casablanca,131.0,2.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Villas,Californie ,7500000.0,Casablanca,434.0,4.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,El Manar - El Hank ,10000000.0,Casablanca,490.0,9.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab Extension ,7500000.0,Casablanca,395.0,9.0,5.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,El Manar - El Hank ,1995968.0,Casablanca,127.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1260000.0,Casablanca,110.0,4.0,3.0,1.0,0.0,Non Specifique,Non Specifique
+Villas,El Manar - El Hank ,7600000.0,Casablanca,480.0,1.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Villas,Sidi Maarouf ,6800000.0,Casablanca,450.0,7.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1250000.0,Casablanca,80.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,16000000.0,Casablanca,1000.0,5.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,1180000.0,Casablanca,102.0,4.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,3900000.0,Casablanca,217.0,6.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,35000000.0,Casablanca,2500.0,4.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,2800000.0,Casablanca,126.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Villas,Ain Diab Extension ,18000000.0,Casablanca,1426.0,10.0,6.0,6.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,14000000.0,Casablanca,724.0,10.0,6.0,7.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1750000.0,Casablanca,114.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Villas,Ain Diab Extension ,8300000.0,Casablanca,478.0,8.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,1900000.0,Casablanca,122.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Racine ,3600000.0,Casablanca,183.0,5.0,4.0,4.0,4.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,590000.0,Casablanca,83.0,2.0,1.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Anassi ,650000.0,Casablanca,75.0,2.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Est ,1000000.0,Casablanca,47.0,2.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,2500000.0,Casablanca,176.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,2210800.0,Casablanca,123.0,3.0,2.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,2292450.0,Casablanca,125.0,4.0,3.0,0.0,2.0,Non Specifique,Non Specifique
+Appartements,Californie ,2129100.0,Casablanca,137.0,3.0,2.0,0.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,2694800.0,Casablanca,148.0,4.0,3.0,0.0,2.0,Non Specifique,Non Specifique
+Appartements,Californie ,2228400.0,Casablanca,124.0,3.0,2.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,2168180.0,Casablanca,138.0,3.0,2.0,0.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,2721750.0,Casablanca,145.0,4.0,3.0,0.0,1.0,Non Specifique,Non Specifique
+Appartements,Californie ,2594400.0,Casablanca,144.0,4.0,3.0,0.0,1.0,Non Specifique,Non Specifique
+Appartements,Palmier ,3700000.0,Casablanca,265.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Oasis ,2700000.0,Casablanca,128.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Centre Ville ,15500000.0,Casablanca,890.0,0.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,861000.0,Casablanca,82.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,600000.0,Casablanca,75.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,2400000.0,Casablanca,158.0,4.0,3.0,3.0,4.0,Non Specifique,Non Specifique
+Appartements,Racine ,6000000.0,Casablanca,266.0,7.0,4.0,4.0,3.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,2000000.0,Casablanca,138.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,2400000.0,Casablanca,151.0,5.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,4800000.0,Casablanca,264.0,6.0,3.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Racine ,4200000.0,Casablanca,177.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,12808345.0,Casablanca,987.0,11.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Oasis ,11600000.0,Casablanca,1058.0,12.0,6.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1264660.0,Casablanca,55.0,0.0,1.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Racine ,2500000.0,Casablanca,165.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,2450000.0,Casablanca,120.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,1737300.0,Casablanca,98.0,3.0,2.0,2.0,6.0,Non Specifique,Non Specifique
+Appartements,Derb Ghalef ,1350000.0,Casablanca,101.0,3.0,2.0,2.0,6.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,1100000.0,Casablanca,96.0,4.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,320000.0,Casablanca,50.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Villas,Californie ,12000000.0,Casablanca,1105.0,8.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1995968.0,Casablanca,60.0,2.0,1.0,1.0,7.0,Non Specifique,Non Specifique
+Appartements,Hay Alhoda ,530000.0,Casablanca,69.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1200000.0,Casablanca,83.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Californie ,2528950.0,Casablanca,134.0,4.0,3.0,0.0,3.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,2012500.0,Casablanca,129.0,3.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Villas,Polo ,13500000.0,Casablanca,1434.0,8.0,6.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Oasis ,2850000.0,Casablanca,195.0,4.0,3.0,3.0,1.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,5990000.0,Casablanca,361.0,7.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,6000000.0,Casablanca,250.0,6.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,16520000.0,Casablanca,944.0,9.0,7.0,6.0,0.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,2450000.0,Casablanca,167.0,3.0,2.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1286380.0,Casablanca,56.0,0.0,1.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1050660.0,Casablanca,47.0,0.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Oasis ,947400.0,Casablanca,41.0,0.0,1.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1268400.0,Casablanca,56.0,0.0,1.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1223060.0,Casablanca,58.0,0.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1039960.0,Casablanca,49.0,0.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1247000.0,Casablanca,55.0,0.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1280170.0,Casablanca,58.0,0.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1317080.0,Casablanca,63.0,0.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Oasis ,968800.0,Casablanca,42.0,0.0,1.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1154980.0,Casablanca,52.0,0.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Oasis ,802415.0,Casablanca,37.0,0.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Oasis ,947400.0,Casablanca,41.0,0.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Oasis ,915300.0,Casablanca,40.0,0.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,1824000.0,Casablanca,98.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,12808345.0,Casablanca,1250.0,15.0,15.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Hay Zobir ,730000.0,Casablanca,65.0,5.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Californie ,1350000.0,Casablanca,104.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,1500000.0,Casablanca,93.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,990000.0,Casablanca,45.0,1.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,44800000.0,Casablanca,5000.0,12.0,7.0,6.0,0.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3500000.0,Casablanca,210.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3800000.0,Casablanca,347.0,4.0,3.0,3.0,6.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1000000.0,Casablanca,124.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,2900000.0,Casablanca,214.0,12.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Palmier ,3500000.0,Casablanca,262.0,4.0,3.0,3.0,6.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3300000.0,Casablanca,198.0,6.0,4.0,3.0,6.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,2000000.0,Casablanca,124.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,8300000.0,Casablanca,477.0,2.0,1.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1760000.0,Casablanca,125.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1007000.0,Casablanca,53.0,2.0,1.0,1.0,5.0,Non Specifique,Non Specifique
+Villas,Californie ,60000000.0,Casablanca,5400.0,3.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab Extension ,17000000.0,Casablanca,1430.0,4.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,2900000.0,Casablanca,177.0,6.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Ain Diab ,1700000.0,Casablanca,148.0,0.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca,1050000.0,Casablanca,59.0,0.0,1.0,1.0,7.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,8500000.0,Casablanca,492.0,9.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,2450000.0,Casablanca,140.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Californie ,1917500.0,Casablanca,189.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1927400.0,Casablanca,127.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,1613100.0,Casablanca,106.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Californie ,2060600.0,Casablanca,198.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,2021750.0,Casablanca,130.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1228500.0,Casablanca,117.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif ,2839750.0,Casablanca,142.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,1600000.0,Casablanca,65.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,2180000.0,Casablanca,104.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Beauséjour ,1936000.0,Casablanca,121.0,7.0,4.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,1119000.0,Casablanca,117.0,8.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,2000000.0,Casablanca,150.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Racine ,3850000.0,Casablanca,210.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Ain Diab ,3500000.0,Casablanca,208.0,4.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1300000.0,Casablanca,52.0,2.0,1.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,1750000.0,Casablanca,98.0,2.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Foncière ,2500000.0,Casablanca,172.0,8.0,4.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,Californie ,1790320.0,Casablanca,139.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1630720.0,Casablanca,104.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,25000000.0,Casablanca,1000.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1429120.0,Casablanca,88.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,915800.0,Casablanca,86.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,13500000.0,Casablanca,767.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1200000.0,Casablanca,95.0,3.0,2.0,1.0,7.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Est ,2600000.0,Casablanca,162.0,4.0,3.0,3.0,3.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,7100000.0,Casablanca,382.0,6.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,4200000.0,Casablanca,299.0,4.0,3.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Ain Borja ,1995968.0,Casablanca,99.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,1250000.0,Casablanca,59.0,0.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,1250000.0,Casablanca,59.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,2200000.0,Casablanca,124.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,2124000.0,Casablanca,137.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1868000.0,Casablanca,101.0,3.0,2.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1076000.0,Casablanca,57.0,2.0,1.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1382000.0,Casablanca,74.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,860000.0,Casablanca,45.0,0.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,860000.0,Casablanca,45.0,0.0,1.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1076000.0,Casablanca,57.0,2.0,1.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,896000.0,Casablanca,47.0,2.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1597000.0,Casablanca,91.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,8700000.0,Casablanca,648.0,8.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,14000000.0,Casablanca,975.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,797865.0,Casablanca,71.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,891080.0,Casablanca,76.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,716392.0,Casablanca,68.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,970905.0,Casablanca,87.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,1250000.0,Casablanca,45.0,2.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Racine ,450000.0,Casablanca,248.0,6.0,4.0,3.0,2.0,Non Specifique,Non Specifique
+Villas,Californie ,7500000.0,Casablanca,434.0,7.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,3700000.0,Casablanca,274.0,4.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1370000.0,Casablanca,62.0,2.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Villas,El Manar - El Hank ,9500000.0,Casablanca,450.0,6.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,14000000.0,Casablanca,1001.0,7.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1760800.0,Casablanca,89.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1550000.0,Casablanca,89.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Racine ,2000000.0,Casablanca,111.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Mers Sultan ,1650000.0,Casablanca,115.0,4.0,3.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3300000.0,Casablanca,155.0,4.0,3.0,2.0,7.0,Non Specifique,Non Specifique
+Appartements,Palmier ,3400000.0,Casablanca,265.0,4.0,3.0,2.0,6.0,Non Specifique,Non Specifique
+Villas,Californie ,15000000.0,Casablanca,1065.0,8.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,8500000.0,Casablanca,605.0,9.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,9000000.0,Casablanca,728.0,9.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,15000000.0,Casablanca,1100.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,4700000.0,Casablanca,380.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,6800000.0,Casablanca,425.0,9.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,11700000.0,Casablanca,890.0,9.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,9500000.0,Casablanca,518.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,17000000.0,Casablanca,1400.0,10.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,10000000.0,Casablanca,618.0,9.0,5.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,6500000.0,Casablanca,370.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,7000000.0,Casablanca,450.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,12000000.0,Casablanca,619.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,10000000.0,Casablanca,590.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,12000000.0,Casablanca,725.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1995968.0,Casablanca,52.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif ,950000.0,Casablanca,55.0,2.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Benjdia ,1690000.0,Casablanca,124.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Racine ,2800000.0,Casablanca,120.0,4.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1050000.0,Casablanca,46.0,2.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Maisons,Ain Chock ,4000000.0,Casablanca,100.0,7.0,6.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,2450000.0,Casablanca,170.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Burger ,1750000.0,Casablanca,137.0,5.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Plateau (Al Batha) ,1750000.0,Casablanca,117.0,5.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Ain Diab ,5550000.0,Casablanca,170.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine Extension ,4500000.0,Casablanca,297.0,4.0,3.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Racine ,4100000.0,Casablanca,229.0,4.0,3.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,Racine ,2800000.0,Casablanca,161.0,3.0,2.0,3.0,7.0,Non Specifique,Non Specifique
+Villas,Ain Diab Extension ,13000000.0,Casablanca,574.0,8.0,4.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Oasis ,2637000.0,Casablanca,148.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1950000.0,Casablanca,146.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Anfa ,5590000.0,Casablanca,186.0,3.0,2.0,2.0,12.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,9000000.0,Casablanca,641.0,7.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,6500000.0,Casablanca,360.0,8.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,26000000.0,Casablanca,1975.0,8.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,7000000.0,Casablanca,411.0,9.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,8000000.0,Casablanca,550.0,9.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,13000000.0,Casablanca,670.0,8.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,40000000.0,Casablanca,2175.0,6.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,45000000.0,Casablanca,2375.0,8.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Est ,950000.0,Casablanca,63.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,3100000.0,Casablanca,309.0,6.0,4.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,1650000.0,Casablanca,97.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,700000.0,Casablanca,58.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,620000.0,Casablanca,77.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,600000.0,Casablanca,75.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Mers Sultan ,1750000.0,Casablanca,137.0,5.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,1900000.0,Casablanca,83.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,1700000.0,Casablanca,98.0,2.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Casablanca Marina ,2500000.0,Casablanca,65.0,2.0,1.0,1.0,8.0,Non Specifique,Non Specifique
+Appartements,Al Hadika ,800000.0,Casablanca,135.0,3.0,2.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1420000.0,Casablanca,88.0,2.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1500000.0,Casablanca,118.0,4.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Villas,Californie ,11000000.0,Casablanca,428.0,7.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,3640000.0,Casablanca,140.0,6.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,5990000.0,Casablanca,361.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,1900000.0,Casablanca,138.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Villas,Oulfa ,3200000.0,Casablanca,231.0,4.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Sidi Maarouf ,5000.0,Casablanca,95.0,2.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1950000.0,Casablanca,117.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,1490000.0,Casablanca,44.0,2.0,1.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Racine ,4500000.0,Casablanca,211.0,4.0,3.0,3.0,7.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,2750000.0,Casablanca,186.0,6.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1700000.0,Casablanca,120.0,4.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Racine Extension ,4500000.0,Casablanca,236.0,5.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Racine ,3900000.0,Casablanca,211.0,5.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,2200000.0,Casablanca,132.0,5.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,2550000.0,Casablanca,166.0,5.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1850000.0,Casablanca,159.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,El Manar - El Hank ,1995968.0,Casablanca,93.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1470000.0,Casablanca,85.0,2.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1350000.0,Casablanca,66.0,2.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1300000.0,Casablanca,68.0,2.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,1900000.0,Casablanca,90.0,0.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,980000.0,Casablanca,42.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,2270000.0,Casablanca,181.0,4.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Racine ,2450000.0,Casablanca,149.0,5.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,9500.0,Casablanca,140.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,5600000.0,Casablanca,244.0,4.0,3.0,3.0,12.0,Non Specifique,Non Specifique
+Appartements,Racine ,3000000.0,Casablanca,234.0,6.0,4.0,3.0,2.0,Non Specifique,Non Specifique
+Villas,Sidi Maarouf ,4700000.0,Casablanca,258.0,12.0,6.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,780000.0,Casablanca,60.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Port ,1360000.0,Casablanca,116.0,4.0,3.0,1.0,7.0,Non Specifique,Non Specifique
+Appartements,Hay Moulay Rachid 1 ,550000.0,Casablanca,73.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,2090000.0,Casablanca,99.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Villas,Californie ,7300000.0,Casablanca,450.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,38000.0,Casablanca,445.0,8.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1991470.0,Casablanca,127.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,1967880.0,Casablanca,128.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Californie ,1941180.0,Casablanca,120.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,2769720.0,Casablanca,251.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Mers Sultan ,2550000.0,Casablanca,186.0,6.0,3.0,3.0,4.0,Non Specifique,Non Specifique
+Appartements,Ain Diab Extension ,4900000.0,Casablanca,203.0,4.0,3.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,7000000.0,Casablanca,440.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,4900000.0,Casablanca,391.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Sidi Maarouf ,4200000.0,Casablanca,460.0,7.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,940000.0,Casablanca,43.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,1480000.0,Casablanca,94.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,16500000.0,Casablanca,485.0,7.0,5.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Beauséjour ,1000000.0,Casablanca,92.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Hermitage ,1152740.0,Casablanca,54.0,2.0,1.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Hermitage ,973500.0,Casablanca,46.0,2.0,1.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Hermitage ,1327560.0,Casablanca,60.0,2.0,1.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Hermitage ,1261100.0,Casablanca,59.0,2.0,1.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1182000.0,Casablanca,51.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Villas,Laymoune ,6400000.0,Casablanca,504.0,6.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1550000.0,Casablanca,130.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,872000.0,Casablanca,106.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,1150000.0,Casablanca,95.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,562500.0,Casablanca,45.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,1800000.0,Casablanca,144.0,4.0,3.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,824000.0,Casablanca,100.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,400000.0,Casablanca,32.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1818500.0,Casablanca,139.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Lissasfa ,866800.0,Casablanca,113.0,0.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Lissasfa ,1103080.0,Casablanca,109.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Lissasfa ,1146270.0,Casablanca,123.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Lissasfa ,1091200.0,Casablanca,153.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Lissasfa ,1118150.0,Casablanca,107.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Lissasfa ,1118150.0,Casablanca,107.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Lissasfa ,1162200.0,Casablanca,113.0,0.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Oasis ,2450000.0,Casablanca,128.0,3.0,2.0,3.0,4.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3275000.0,Casablanca,155.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Anassi ,520000.0,Casablanca,80.0,3.0,2.0,1.0,6.0,Non Specifique,Non Specifique
+Appartements,Al Azhar ,720000.0,Casablanca,85.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Californie ,1391000.0,Casablanca,103.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3000000.0,Casablanca,256.0,7.0,4.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1850000.0,Casablanca,102.0,5.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1550000.0,Casablanca,84.0,4.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1333500.0,Casablanca,127.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Anassi ,540000.0,Casablanca,64.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Anassi ,600000.0,Casablanca,70.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,El Manar - El Hank ,1995968.0,Casablanca,94.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,710000.0,Casablanca,57.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,625000.0,Casablanca,50.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,1125000.0,Casablanca,90.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,1275000.0,Casablanca,102.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,1912000.0,Casablanca,95.0,3.0,2.0,1.0,7.0,Non Specifique,Non Specifique
+Appartements,Racine ,3150000.0,Casablanca,173.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Mandarona ,1200000.0,Casablanca,120.0,2.0,4.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Racine ,8300000.0,Casablanca,85.0,2.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Palmier ,2600000.0,Casablanca,184.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Mers Sultan ,1700000.0,Casablanca,112.0,4.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Lissasfa ,1034550.0,Casablanca,99.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Lissasfa ,1106380.0,Casablanca,107.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Lissasfa ,1067000.0,Casablanca,100.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Lissasfa ,1056000.0,Casablanca,100.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Maârif ,2615500.0,Casablanca,133.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1699000.0,Casablanca,82.0,3.0,2.0,0.0,3.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1473500.0,Casablanca,85.0,2.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Californie ,1938830.0,Casablanca,167.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,800000.0,Casablanca,64.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,875000.0,Casablanca,70.0,3.0,2.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Palmier ,2157500.0,Casablanca,109.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,2200000.0,Casablanca,124.0,0.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3150000.0,Casablanca,238.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1600000.0,Casablanca,87.0,4.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1000000.0,Casablanca,51.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,451000.0,Casablanca,43.0,3.0,1.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Hermitage ,1237650.0,Casablanca,57.0,2.0,1.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Maârif ,2118250.0,Casablanca,105.0,3.0,2.0,0.0,1.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,5052000.0,Casablanca,259.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,1800000.0,Casablanca,102.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,3400000.0,Casablanca,191.0,6.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,3200000.0,Casablanca,205.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,2420000.0,Casablanca,110.0,1.0,3.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Derb Ghalef ,910000.0,Casablanca,65.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Racine ,2600000.0,Casablanca,220.0,6.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Nassim 1 ,8500000.0,Casablanca,475.0,10.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Sidi Maarouf ,360000.0,Casablanca,52.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1555000.0,Casablanca,93.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Ain Diab ,3600000.0,Casablanca,215.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,2607850.0,Casablanca,243.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1838760.0,Casablanca,116.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1067500.0,Casablanca,55.0,2.0,1.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,860000.0,Casablanca,45.0,0.0,1.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1256000.0,Casablanca,67.0,2.0,1.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,986000.0,Casablanca,52.0,2.0,1.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Casablanca,1900000.0,Casablanca,126.0,0.0,3.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,600000.0,Casablanca,75.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Villas,Californie ,8000000.0,Casablanca,413.0,10.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,El Manar - El Hank ,1995968.0,Casablanca,82.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1336000.0,Casablanca,99.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,7800000.0,Casablanca,510.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1260000.0,Casablanca,104.0,4.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1400000.0,Casablanca,105.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,2050000.0,Casablanca,123.0,4.0,3.0,4.0,2.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,2200000.0,Casablanca,179.0,3.0,2.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,2150000.0,Casablanca,129.0,3.0,2.0,3.0,4.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,1100000.0,Casablanca,67.0,2.0,1.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,8000000.0,Casablanca,370.0,9.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1274000.0,Casablanca,91.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Port ,6500000.0,Casablanca,300.0,6.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,2065000.0,Casablanca,100.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Casablanca,7300000.0,Casablanca,683.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Casablanca,5500000.0,Casablanca,650.0,5.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,11000000.0,Casablanca,860.0,6.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Casablanca,9000000.0,Casablanca,550.0,6.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,6000000.0,Casablanca,320.0,7.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca,2260000.0,Casablanca,176.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Ain Borja ,950000.0,Casablanca,76.0,5.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Villas,Sidi Maarouf ,8400000.0,Casablanca,616.0,7.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1526000.0,Casablanca,82.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1418000.0,Casablanca,76.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,986000.0,Casablanca,52.0,2.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1345000.0,Casablanca,74.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1076000.0,Casablanca,57.0,2.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,691667.0,Casablanca,36.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,890000.0,Casablanca,48.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1960000.0,Casablanca,113.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,3600000.0,Casablanca,245.0,6.0,4.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3000000.0,Casablanca,157.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif ,2313250.0,Casablanca,115.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,1690000.0,Casablanca,102.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,608000.0,Casablanca,76.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1092000.0,Casablanca,104.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1690000.0,Casablanca,95.0,4.0,2.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,CIL (Hay Salam) ,3400000.0,Casablanca,201.0,5.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Villas,Casablanca,22500000.0,Casablanca,1230.0,0.0,7.0,6.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,2800000.0,Casablanca,138.0,0.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,1700000.0,Casablanca,114.0,0.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca,900000.0,Casablanca,108.0,0.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Hermitage ,968000.0,Casablanca,61.0,2.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1039500.0,Casablanca,99.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Derb Ghalef ,1400000.0,Casablanca,100.0,2.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Hay Zobir ,440000.0,Casablanca,57.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Polo ,8100000.0,Casablanca,467.0,6.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif ,2300000.0,Casablanca,219.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Port ,2600000.0,Casablanca,115.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Casablanca,5344120.0,Casablanca,335.0,5.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,1690000.0,Casablanca,116.0,0.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Oasis ,2000000.0,Casablanca,165.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,1900000.0,Casablanca,150.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1900000.0,Casablanca,145.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,9800000.0,Casablanca,1055.0,8.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,20000000.0,Casablanca,1025.0,8.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,21000000.0,Casablanca,2611.0,9.0,6.0,5.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,12000000.0,Casablanca,583.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,12700000.0,Casablanca,465.0,8.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,16000000.0,Casablanca,961.0,9.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Polo ,7200000.0,Casablanca,350.0,9.0,6.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,2400000.0,Casablanca,152.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,El Manar - El Hank ,1995968.0,Casablanca,106.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1972000.0,Casablanca,136.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1800000.0,Casablanca,105.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,2500000.0,Casablanca,142.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Plateau (Al Batha) ,1790000.0,Casablanca,156.0,5.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Casablanca,2700000.0,Casablanca,291.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,30000000.0,Casablanca,2049.0,8.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Riad,Sidi Maarouf ,6500000.0,Casablanca,331.0,3.0,4.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,2700000.0,Casablanca,167.0,4.0,3.0,2.0,7.0,Non Specifique,Non Specifique
+Villas,Californie ,14000000.0,Casablanca,998.0,4.0,4.0,5.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,13000000.0,Casablanca,1200.0,7.0,6.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1350000.0,Casablanca,109.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Tantonville ,1600000.0,Casablanca,120.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,10500000.0,Casablanca,450.0,2.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Sidi Belyout ,1695000.0,Casablanca,113.0,1.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,2500000.0,Casablanca,131.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,14000000.0,Casablanca,1100.0,3.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,2650000.0,Casablanca,162.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Sidi Maarouf ,5000000.0,Casablanca,250.0,3.0,6.0,5.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,5400000.0,Casablanca,300.0,9.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,35000000.0,Casablanca,1620.0,8.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,4000000.0,Casablanca,189.0,5.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,71400000.0,Casablanca,4200.0,3.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,18000000.0,Casablanca,1000.0,8.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1600000.0,Casablanca,94.0,3.0,2.0,2.0,5.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,48000000.0,Casablanca,2014.0,1.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,5500000.0,Casablanca,233.0,8.0,5.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Sidi Maarouf ,4600000.0,Casablanca,250.0,6.0,6.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,1450000.0,Casablanca,72.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1900000.0,Casablanca,222.0,5.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,1900000.0,Casablanca,129.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Racine ,1870000.0,Casablanca,84.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,45000000.0,Casablanca,1900.0,5.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,12808345.0,Casablanca,2100.0,3.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,14500000.0,Casablanca,1143.0,5.0,4.0,5.0,0.0,Non Specifique,Non Specifique
+Villas,Hermitage ,4500000.0,Casablanca,200.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,2750000.0,Casablanca,156.0,4.0,3.0,3.0,3.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,2350000.0,Casablanca,146.0,4.0,3.0,3.0,2.0,Non Specifique,Non Specifique
+Villas,Polo ,6400000.0,Casablanca,803.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,1540000.0,Casablanca,91.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1600000.0,Casablanca,100.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1750000.0,Casablanca,130.0,5.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Californie ,2980000.0,Casablanca,175.0,5.0,3.0,3.0,4.0,Non Specifique,Non Specifique
+Villas,Californie ,19000000.0,Casablanca,1000.0,5.0,4.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,2400000.0,Casablanca,140.0,5.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1090000.0,Casablanca,51.0,2.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Villas,Sidi Maarouf ,4500000.0,Casablanca,250.0,5.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,1790000.0,Casablanca,125.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,2400000.0,Casablanca,141.0,3.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Bernoussi ,600000.0,Casablanca,58.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,1628000.0,Casablanca,90.0,0.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,1526250.0,Casablanca,85.0,0.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,1683500.0,Casablanca,91.0,0.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Ahl Loghlam (Hay Assalam) ,300000.0,Casablanca,51.0,2.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,470000.0,Casablanca,52.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,1526560.0,Casablanca,94.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1572820.0,Casablanca,93.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,7098000.0,Casablanca,370.0,5.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Ain Diab ,4050000.0,Casablanca,162.0,3.0,2.0,3.0,6.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3000000.0,Casablanca,198.0,4.0,3.0,3.0,6.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,920000.0,Casablanca,46.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1822250.0,Casablanca,99.0,4.0,3.0,0.0,3.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,1900000.0,Casablanca,90.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Franceville ,1950000.0,Casablanca,203.0,7.0,5.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,2330000.0,Casablanca,180.0,5.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Californie ,1635420.0,Casablanca,98.0,4.0,3.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1585580.0,Casablanca,99.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Californie ,1428000.0,Casablanca,102.0,4.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1656480.0,Casablanca,102.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,1803200.0,Casablanca,115.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Californie ,1344000.0,Casablanca,80.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1721660.0,Casablanca,122.0,4.0,3.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,Californie ,1854720.0,Casablanca,115.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,984810.0,Casablanca,90.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,8000000.0,Casablanca,400.0,10.0,4.0,6.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,2900000.0,Casablanca,160.0,8.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1950000.0,Casablanca,106.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,12808345.0,Casablanca,1800.0,8.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Mers Sultan ,1995968.0,Casablanca,107.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Beauséjour ,1995968.0,Casablanca,107.0,4.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1995968.0,Casablanca,99.0,5.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1995968.0,Casablanca,164.0,5.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1995968.0,Casablanca,153.0,5.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1995968.0,Casablanca,140.0,5.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,920000.0,Casablanca,78.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Burger ,14000.0,Casablanca,78.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,2900000.0,Casablanca,240.0,5.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Lissasfa ,339000.0,Casablanca,50.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Villas,Anfa ,20000000.0,Casablanca,1058.0,5.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Anassi ,790000.0,Casablanca,95.0,4.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Anassi ,660000.0,Casablanca,79.0,4.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Hay Moulay Rachid 1 ,550000.0,Casablanca,73.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,2900000.0,Casablanca,125.0,5.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Villas,Californie ,7300000.0,Casablanca,490.0,3.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1700000.0,Casablanca,222.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Anfa ,1480000.0,Casablanca,82.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Centre Ville ,2900000.0,Casablanca,210.0,4.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Anfa ,2950000.0,Casablanca,150.0,4.0,3.0,3.0,4.0,Non Specifique,Non Specifique
+Appartements,Racine ,1995968.0,Casablanca,225.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Racine ,1995968.0,Casablanca,220.0,5.0,4.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1350000.0,Casablanca,130.0,4.0,3.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,340000.0,Casablanca,47.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Bernoussi ,500000.0,Casablanca,60.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,1800000.0,Casablanca,149.0,3.0,3.0,2.0,7.0,Non Specifique,Non Specifique
+Appartements,Salmia 2 ,510000.0,Casablanca,78.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,2000.0,Casablanca,104.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Ain Borja ,130000.0,Casablanca,105.0,3.0,1.0,2.0,6.0,Non Specifique,Non Specifique
+Appartements,Ain Borja ,130000.0,Casablanca,105.0,3.0,1.0,2.0,6.0,Non Specifique,Non Specifique
+Appartements,Ain Diab ,4200000.0,Casablanca,230.0,6.0,4.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1780000.0,Casablanca,114.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1400000.0,Casablanca,77.0,2.0,1.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1050000.0,Casablanca,55.0,2.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,1490000.0,Casablanca,91.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Anassi ,440000.0,Casablanca,65.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,2500000.0,Casablanca,162.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,9500000.0,Casablanca,480.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Itissal ,1050000.0,Casablanca,120.0,5.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1050000.0,Casablanca,81.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,7500000.0,Casablanca,1015.0,10.0,3.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1140000.0,Casablanca,63.0,2.0,1.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1350000.0,Casablanca,92.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Villas,Anfa ,14000000.0,Casablanca,1068.0,7.0,6.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Laymoune ,8800000.0,Casablanca,700.0,5.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Nassim 1 ,4650000.0,Casablanca,345.0,1.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Hay Zobir ,1250000.0,Casablanca,125.0,6.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,3200000.0,Casablanca,200.0,4.0,3.0,3.0,3.0,Non Specifique,Non Specifique
+Appartements,Anfa ,2650000.0,Casablanca,146.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Hay Alamal ,670000.0,Casablanca,60.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,1020000.0,Casablanca,91.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,2090000.0,Casablanca,99.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Villas,Sidi Maarouf ,5300000.0,Casablanca,375.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,1650000.0,Casablanca,116.0,5.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Moulay Youssef ,2200000.0,Casablanca,104.0,5.0,2.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Derb Chorfa ,270000.0,Casablanca,32.0,2.0,1.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Californie ,1694450.0,Casablanca,123.0,4.0,3.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Californie ,2506000.0,Casablanca,179.0,4.0,3.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,Californie ,1930430.0,Casablanca,139.0,3.0,2.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,Californie ,2479680.0,Casablanca,180.0,4.0,3.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Californie ,2465900.0,Casablanca,179.0,4.0,3.0,3.0,4.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,4850000.0,Casablanca,225.0,4.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Derb Ghalef ,850000.0,Casablanca,56.0,2.0,1.0,1.0,4.0,Non Specifique,Non Specifique
+Villas,Ain Diab Extension ,16500000.0,Casablanca,1180.0,10.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,12808345.0,Casablanca,2390.0,11.0,9.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Derb Loubila ,990000.0,Casablanca,74.0,3.0,2.0,1.0,6.0,Non Specifique,Non Specifique
+Villas,Californie ,16000000.0,Casablanca,1000.0,8.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Anassi ,340000.0,Casablanca,56.0,5.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1370000.0,Casablanca,130.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Sidi Moumen ,610000.0,Casablanca,60.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Hay Almassira 2 ,500000.0,Casablanca,66.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1750000.0,Casablanca,157.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Californie ,1386000.0,Casablanca,99.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Hermitage ,973500.0,Casablanca,46.0,2.0,1.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,829500.0,Casablanca,79.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,3500000.0,Casablanca,196.0,0.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif ,820000.0,Casablanca,40.0,1.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1813000.0,Casablanca,98.0,4.0,3.0,0.0,2.0,Non Specifique,Non Specifique
+Appartements,Bernoussi ,380000.0,Casablanca,54.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,880000.0,Casablanca,91.0,3.0,3.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Racine ,2000000.0,Casablanca,96.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Sidi Maarouf ,2790000.0,Casablanca,303.0,8.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,2380000.0,Casablanca,164.0,4.0,2.0,3.0,4.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,9500000.0,Casablanca,618.0,6.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Riviera ,2682500.0,Casablanca,148.0,4.0,3.0,4.0,5.0,Non Specifique,Non Specifique
+Appartements,Riviera ,2886000.0,Casablanca,156.0,5.0,4.0,4.0,2.0,Non Specifique,Non Specifique
+Appartements,Riviera ,3505750.0,Casablanca,222.0,5.0,4.0,4.0,1.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,2250000.0,Casablanca,200.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3800000.0,Casablanca,289.0,5.0,4.0,2.0,4.0,Non Specifique,Non Specifique
+Villas,Nassim 2 ,3500000.0,Casablanca,180.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Maisons,Hay Hassani ,7000000.0,Casablanca,510.0,14.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1750000.0,Casablanca,156.0,5.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Villas,Ain Diab Extension ,14500000.0,Casablanca,1288.0,5.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,1800000.0,Casablanca,144.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Racine ,4500000.0,Casablanca,294.0,6.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,1150000.0,Casablanca,120.0,3.0,2.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,2350000.0,Casablanca,137.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,2100000.0,Casablanca,210.0,2.0,3.0,2.0,7.0,Non Specifique,Non Specifique
+Appartements,Derb Abdellah ,1350000.0,Casablanca,99.0,6.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Anassi ,700000.0,Casablanca,78.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Villas,Californie ,13000000.0,Casablanca,1300.0,7.0,7.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,906500.0,Casablanca,49.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,2900000.0,Casablanca,191.0,5.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,44000000.0,Casablanca,2390.0,17.0,10.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine Extension ,1995968.0,Casablanca,189.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,El Manar - El Hank ,1225000.0,Casablanca,49.0,2.0,1.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1767000.0,Casablanca,114.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Hermitage ,1221690.0,Casablanca,57.0,2.0,1.0,2.0,1.0,Non Specifique,Non Specifique
+Villas,Californie ,40000000.0,Casablanca,2700.0,9.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3300000.0,Casablanca,229.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,2090000.0,Casablanca,112.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,2950000.0,Casablanca,160.0,4.0,3.0,1.0,5.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,6400000.0,Casablanca,432.0,5.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Roches Noires ,750000.0,Casablanca,85.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,2000000.0,Casablanca,172.0,6.0,4.0,2.0,6.0,Non Specifique,Non Specifique
+Appartements,Ain Chock ,3100000.0,Casablanca,201.0,8.0,3.0,3.0,1.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,6400000.0,Casablanca,450.0,8.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,4100000.0,Casablanca,175.0,3.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,14500000.0,Casablanca,1016.0,4.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Centre Ville ,4100000.0,Casablanca,434.0,6.0,6.0,3.0,10.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,4900000.0,Casablanca,320.0,5.0,5.0,3.0,5.0,Non Specifique,Non Specifique
+Villas,Californie ,7400000.0,Casablanca,483.0,5.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,4800000.0,Casablanca,257.0,5.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,9500000.0,Casablanca,735.0,10.0,5.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,4400000.0,Casablanca,195.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,16500000.0,Casablanca,520.0,3.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,3400000.0,Casablanca,205.0,5.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,4350000.0,Casablanca,295.0,4.0,4.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,3700000.0,Casablanca,192.0,3.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Villas,Anfa ,26000000.0,Casablanca,1455.0,3.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,16000000.0,Casablanca,872.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Polo ,8500000.0,Casablanca,926.0,5.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,16000000.0,Casablanca,1640.0,5.0,5.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,7250000.0,Casablanca,486.0,4.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,11500000.0,Casablanca,1422.0,9.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,25000000.0,Casablanca,781.0,9.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,18000000.0,Casablanca,815.0,8.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Anassi ,540000.0,Casablanca,64.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,1276500.0,Casablanca,111.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Villas,Californie ,10500000.0,Casablanca,1124.0,5.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Ain Diab ,2550000.0,Casablanca,172.0,3.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1600000.0,Casablanca,99.0,2.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Villas,Sidi Maarouf ,5100000.0,Casablanca,265.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,2000000.0,Casablanca,184.0,3.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Racine ,2850000.0,Casablanca,160.0,5.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,16500000.0,Casablanca,1200.0,3.0,5.0,4.0,6.0,Non Specifique,Non Specifique
+Appartements,Mers Sultan ,2500000.0,Casablanca,194.0,5.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Moulay Youssef ,2200000.0,Casablanca,104.0,6.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Villas,Aïn Sebaâ ,60000000.0,Casablanca,640.0,10.0,18.0,10.0,0.0,Non Specifique,Non Specifique
+Maisons,Sidi Maarouf ,4900000.0,Casablanca,250.0,4.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Gauthier ,4800000.0,Casablanca,152.0,6.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,6800000.0,Casablanca,395.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,6100000.0,Casablanca,370.0,9.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,8500000.0,Casablanca,479.0,8.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,3850000.0,Casablanca,167.0,7.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,7800000.0,Casablanca,350.0,8.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,7200000.0,Casablanca,340.0,8.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,8000000.0,Casablanca,450.0,10.0,5.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,570000.0,Casablanca,61.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,808500.0,Casablanca,77.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Ain Diab ,4200000.0,Casablanca,166.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,3980000.0,Casablanca,268.0,7.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Est ,2750000.0,Casablanca,216.0,4.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,1800000.0,Casablanca,134.0,6.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,2390000.0,Casablanca,181.0,4.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Hermitage ,1701080.0,Casablanca,83.0,2.0,1.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,655500.0,Casablanca,57.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1052000.0,Casablanca,84.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,2160000.0,Casablanca,130.0,3.0,2.0,3.0,3.0,Non Specifique,Non Specifique
+Appartements,Hay Moulay Rachid 1 ,1995968.0,Casablanca,86.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1979500.0,Casablanca,107.0,3.0,2.0,0.0,1.0,Non Specifique,Non Specifique
+Appartements,Californie ,1445000.0,Casablanca,107.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,2600000.0,Casablanca,130.0,4.0,3.0,3.0,3.0,Non Specifique,Non Specifique
+Appartements,Racine ,2600000.0,Casablanca,140.0,5.0,3.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1995968.0,Casablanca,235.0,5.0,4.0,3.0,1.0,Non Specifique,Non Specifique
+Villas,Sidi Maarouf ,7100000.0,Casablanca,310.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,16500000.0,Casablanca,1260.0,10.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Laymoune ,6000000.0,Casablanca,401.0,8.0,6.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca,3600000.0,Casablanca,174.0,0.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,5500000.0,Casablanca,275.0,0.0,3.0,3.0,9.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,8000000.0,Casablanca,470.0,0.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,3500000.0,Casablanca,198.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Polo ,9000000.0,Casablanca,919.0,4.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,1380000.0,Casablanca,100.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,5800000.0,Casablanca,562.0,10.0,5.0,5.0,6.0,Non Specifique,Non Specifique
+Appartements,Palmier ,4200000.0,Casablanca,279.0,4.0,3.0,3.0,6.0,Non Specifique,Non Specifique
+Villas,Sidi Maarouf ,7000000.0,Casablanca,380.0,10.0,5.0,7.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,9500000.0,Casablanca,440.0,7.0,6.0,6.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,8700000.0,Casablanca,570.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,34000000.0,Casablanca,1300.0,7.0,6.0,5.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,12808345.0,Casablanca,2300.0,10.0,6.0,6.0,0.0,Non Specifique,Non Specifique
+Maisons,Sidi Maarouf ,3500000.0,Casablanca,120.0,4.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Hay Alamal ,1995968.0,Casablanca,52.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,10000.0,Casablanca,200.0,4.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Maisons,Hay Hassani ,1500000.0,Casablanca,85.0,6.0,6.0,3.0,0.0,Non Specifique,Non Specifique
+Maisons,Sidi Maarouf ,4600000.0,Casablanca,120.0,7.0,5.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,4500000.0,Casablanca,550.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,23750000.0,Casablanca,1250.0,0.0,5.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Casablanca,9200000.0,Casablanca,490.0,5.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Casablanca,9200000.0,Casablanca,490.0,6.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine Extension ,5000000.0,Casablanca,234.0,5.0,4.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,950000.0,Casablanca,50.0,2.0,1.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,1100000.0,Casablanca,111.0,3.0,2.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Beauséjour ,2200000.0,Casablanca,155.0,4.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Villas,Sidi Maarouf ,3600000.0,Casablanca,260.0,5.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Polo ,6800000.0,Casablanca,762.0,8.0,6.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Franceville ,2000000.0,Casablanca,140.0,3.0,2.0,1.0,5.0,Non Specifique,Non Specifique
+Villas,Polo ,8000000.0,Casablanca,799.0,7.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,11000000.0,Casablanca,600.0,7.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Polo ,17000000.0,Casablanca,1700.0,8.0,7.0,0.0,0.0,Non Specifique,Non Specifique
+Villas,Casablanca,22750000.0,Casablanca,1750.0,8.0,5.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,8000000.0,Casablanca,390.0,6.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,7950000.0,Casablanca,450.0,7.0,5.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca,1820000.0,Casablanca,160.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca,1600000.0,Casablanca,87.0,3.0,2.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Oasis ,2600000.0,Casablanca,128.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Casablanca,7500000.0,Casablanca,325.0,6.0,3.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca,2800000.0,Casablanca,243.0,5.0,3.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,4700000.0,Casablanca,212.0,6.0,3.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,690000.0,Casablanca,62.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,4800000.0,Casablanca,399.0,5.0,3.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca,1250000.0,Casablanca,93.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Centre Ville ,3268000.0,Casablanca,260.0,6.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1900000.0,Casablanca,116.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,3300000.0,Casablanca,204.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,3500000.0,Casablanca,155.0,6.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,1450000.0,Casablanca,55.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1400000.0,Casablanca,92.0,5.0,3.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,1240000.0,Casablanca,103.0,5.0,3.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,4100000.0,Casablanca,237.0,6.0,3.0,0.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,12000000.0,Casablanca,390.0,7.0,4.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Ain Borja ,3000000.0,Casablanca,220.0,9.0,5.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif ,900000.0,Casablanca,60.0,2.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,4200000.0,Casablanca,244.0,6.0,3.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1700000.0,Casablanca,159.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Maisons,Polo ,6500000.0,Casablanca,350.0,5.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Maisons,Hay Al Qods ,5000000.0,Casablanca,281.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Polo ,9000000.0,Casablanca,1010.0,9.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,CIL (Hay Salam) ,2300000.0,Casablanca,131.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Racine ,3980000.0,Casablanca,210.0,6.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,16000000.0,Casablanca,1100.0,8.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,7500000.0,Casablanca,370.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,3360000.0,Casablanca,191.0,5.0,3.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,Riviera ,1800000.0,Casablanca,120.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,2300000.0,Casablanca,140.0,5.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Villas,Polo ,15500000.0,Casablanca,1000.0,8.0,4.0,6.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,12000000.0,Casablanca,845.0,8.0,4.0,5.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,9500000.0,Casablanca,1053.0,6.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3300000.0,Casablanca,222.0,4.0,3.0,3.0,4.0,Non Specifique,Non Specifique
+Appartements,Palmier ,3950000.0,Casablanca,217.0,5.0,3.0,3.0,4.0,Non Specifique,Non Specifique
+Appartements,Racine Extension ,3200000.0,Casablanca,156.0,6.0,4.0,3.0,3.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,3200000.0,Casablanca,198.0,4.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,2400000.0,Casablanca,150.0,4.0,3.0,3.0,4.0,Non Specifique,Non Specifique
+Appartements,Burger ,2650000.0,Casablanca,167.0,5.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Al Qods ,1995968.0,Casablanca,62.0,2.0,3.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Hay Arrahma ,490000.0,Casablanca,68.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif ,2300000.0,Casablanca,116.0,3.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Sidi Maarouf ,4600000.0,Casablanca,250.0,4.0,6.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Sidi Moumen ,1995968.0,Casablanca,100.0,5.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1390000.0,Casablanca,105.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Palmier ,2000000.0,Casablanca,135.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Derb Ghalef ,1995968.0,Casablanca,116.0,4.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,1650000.0,Casablanca,140.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1550000.0,Casablanca,76.0,5.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Racine ,2400000.0,Casablanca,156.0,5.0,3.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Garage Allal ,890000.0,Casablanca,89.0,3.0,2.0,2.0,8.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,1470000.0,Casablanca,113.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,2900000.0,Casablanca,122.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Racine ,5100000.0,Casablanca,240.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1995968.0,Casablanca,49.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,El Manar - El Hank ,1250000.0,Casablanca,93.0,3.0,2.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1050000.0,Casablanca,60.0,2.0,1.0,1.0,7.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,8500000.0,Casablanca,600.0,6.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,12000000.0,Casablanca,700.0,4.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1995968.0,Casablanca,400.0,5.0,5.0,6.0,3.0,Non Specifique,Non Specifique
+Villas,Californie ,13000000.0,Casablanca,1000.0,7.0,5.0,6.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,19000000.0,Casablanca,1100.0,8.0,6.0,6.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,700000.0,Casablanca,40.0,1.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Hay Zobir ,1090000.0,Casablanca,95.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,2500000.0,Casablanca,200.0,5.0,4.0,3.0,4.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,33000000.0,Casablanca,1613.0,7.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,400000.0,Casablanca,50.0,1.0,3.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,2600000.0,Casablanca,153.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,2100000.0,Casablanca,130.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1900000.0,Casablanca,127.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Villas,Ain Diab Extension ,8000000.0,Casablanca,320.0,6.0,4.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Al Qods ,300000.0,Casablanca,44.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Hermitage ,1600000.0,Casablanca,144.0,5.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif ,2400000.0,Casablanca,138.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Sidi Othmane ,425000.0,Casablanca,61.0,4.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,1700000.0,Casablanca,121.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,1850000.0,Casablanca,126.0,0.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca,1600000.0,Casablanca,96.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1800000.0,Casablanca,157.0,0.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,2100000.0,Casablanca,149.0,5.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Casablanca,2800000.0,Casablanca,161.0,0.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Casablanca,2000000.0,Casablanca,4000.0,0.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,2450000.0,Casablanca,159.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,1100000.0,Casablanca,96.0,4.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Casablanca,1800000.0,Casablanca,128.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,970000.0,Casablanca,54.0,2.0,1.0,1.0,7.0,Non Specifique,Non Specifique
+Appartements,Racine ,2800000.0,Casablanca,214.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,600000.0,Casablanca,75.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1280000.0,Casablanca,114.0,4.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,1500000.0,Casablanca,45.0,2.0,1.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,1591000.0,Casablanca,86.0,0.0,1.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,1933350.0,Casablanca,113.0,0.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,1794500.0,Casablanca,107.0,0.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1900000.0,Casablanca,142.0,5.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Racine ,2800000.0,Casablanca,214.0,6.0,4.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,Anfa ,2280000.0,Casablanca,127.0,5.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Anfa ,1995968.0,Casablanca,127.0,5.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Sidi Moumen ,370000.0,Casablanca,72.0,4.0,3.0,1.0,0.0,Non Specifique,Non Specifique
+Villas,Oulfa ,3500000.0,Casablanca,251.0,4.0,11.0,4.0,0.0,Non Specifique,Non Specifique
+Maisons,Hay Zobir ,3800000.0,Casablanca,85.0,10.0,3.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,28000000.0,Casablanca,1633.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,24000000.0,Casablanca,1465.0,9.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,8000000.0,Casablanca,535.0,7.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,13000000.0,Casablanca,1020.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,19000000.0,Casablanca,1065.0,8.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Oasis ,8500000.0,Casablanca,563.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,11700000.0,Casablanca,675.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,15000000.0,Casablanca,733.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,9500000.0,Casablanca,425.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,12000000.0,Casablanca,1200.0,9.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,10000000.0,Casablanca,855.0,9.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,7000000.0,Casablanca,400.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,9500000.0,Casablanca,615.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Oasis ,9000000.0,Casablanca,850.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,9000000.0,Casablanca,435.0,7.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,16000000.0,Casablanca,1500.0,9.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,7500000.0,Casablanca,545.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,7500000.0,Casablanca,400.0,6.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Oasis ,7000000.0,Casablanca,584.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Oasis ,7500000.0,Casablanca,625.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Oasis ,6500000.0,Casablanca,530.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,6800000.0,Casablanca,400.0,5.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,6500000.0,Casablanca,400.0,8.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Polo ,7000000.0,Casablanca,665.0,7.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Oasis ,6500000.0,Casablanca,320.0,6.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,7500000.0,Casablanca,460.0,6.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Oasis ,13000000.0,Casablanca,733.0,8.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,5800000.0,Casablanca,350.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,60000000.0,Casablanca,3200.0,9.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Polo ,6000000.0,Casablanca,380.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Polo ,5800000.0,Casablanca,525.0,8.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,6800000.0,Casablanca,375.0,7.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,El Manar - El Hank ,7500000.0,Casablanca,540.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,7900000.0,Casablanca,593.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Oasis ,5500000.0,Casablanca,417.0,6.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,9000000.0,Casablanca,390.0,8.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,8700000.0,Casablanca,675.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,10800000.0,Casablanca,865.0,7.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,13800000.0,Casablanca,988.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,6500000.0,Casablanca,350.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,12000000.0,Casablanca,580.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,7000000.0,Casablanca,360.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,11500000.0,Casablanca,722.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,15000000.0,Casablanca,945.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,6800000.0,Casablanca,400.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,14500000.0,Casablanca,993.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,16000000.0,Casablanca,1350.0,7.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,15000000.0,Casablanca,1120.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,22000000.0,Casablanca,1800.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Polo ,13000000.0,Casablanca,977.0,8.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Polo ,23000000.0,Casablanca,2200.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,18000000.0,Casablanca,1025.0,8.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Oasis ,30000000.0,Casablanca,1622.0,7.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,20000000.0,Casablanca,1085.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,12000000.0,Casablanca,575.0,9.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,20000000.0,Casablanca,985.0,8.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,13000000.0,Casablanca,627.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,25000000.0,Casablanca,1017.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,8700000.0,Casablanca,715.0,9.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Borja ,6630000.0,Casablanca,390.0,5.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Maisons,Hay Al Amal ,2600000.0,Casablanca,96.0,5.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1400000.0,Casablanca,71.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1170000.0,Casablanca,89.0,4.0,2.0,1.0,6.0,Non Specifique,Non Specifique
+Appartements,Palmier ,1950000.0,Casablanca,125.0,5.0,3.0,2.0,9.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1500000.0,Casablanca,100.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Riad,Californie ,16500000.0,Casablanca,1000.0,7.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,3600000.0,Casablanca,234.0,5.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,1500000.0,Casablanca,93.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,1590000.0,Casablanca,153.0,6.0,3.0,3.0,6.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,5200000.0,Casablanca,58.0,2.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Burger ,2400000.0,Casablanca,215.0,4.0,3.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,2430000.0,Casablanca,138.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,1995968.0,Casablanca,96.0,4.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,1995968.0,Casablanca,96.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1747300.0,Casablanca,98.0,3.0,2.0,2.0,6.0,Non Specifique,Non Specifique
+Appartements,Al Qods ,360000.0,Casablanca,54.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Maisons,Michouar ,4000000.0,Casablanca,441.0,9.0,5.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Nassim 1 ,840000.0,Casablanca,91.0,4.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Villas,Les Crêtes ,7500000.0,Casablanca,399.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Maisons,Polo ,4050000.0,Casablanca,345.0,7.0,5.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,8000.0,Casablanca,95.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Ain Diab Extension ,11450000.0,Casablanca,800.0,12.0,7.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,980000.0,Casablanca,98.0,3.0,2.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Ain Diab ,3700000.0,Casablanca,203.0,5.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1700000.0,Casablanca,96.0,3.0,2.0,1.0,7.0,Non Specifique,Non Specifique
+Appartements,Palmier ,3800000.0,Casablanca,258.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,14500000.0,Casablanca,1250.0,16.0,7.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,4100000.0,Casablanca,282.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Riviera ,1995968.0,Casablanca,90.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,990000.0,Casablanca,107.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,1690000.0,Casablanca,121.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,2950000.0,Casablanca,154.0,5.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Laymoune ,5000000.0,Casablanca,460.0,8.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,2800000.0,Casablanca,155.0,4.0,3.0,2.0,8.0,Non Specifique,Non Specifique
+Villas,Mandarona ,13000000.0,Casablanca,897.0,9.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,3650000.0,Casablanca,265.0,4.0,3.0,3.0,6.0,Non Specifique,Non Specifique
+Appartements,Ain Borja ,1995968.0,Casablanca,101.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,820000.0,Casablanca,48.0,2.0,1.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,3000000.0,Casablanca,210.0,4.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Franceville ,2200000.0,Casablanca,135.0,3.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,5600000.0,Casablanca,252.0,4.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,2750000.0,Casablanca,153.0,6.0,3.0,2.0,7.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1150000.0,Casablanca,73.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,2200000.0,Casablanca,150.0,6.0,3.0,3.0,3.0,Non Specifique,Non Specifique
+Villas,Sidi Maarouf ,5400000.0,Casablanca,265.0,11.0,3.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,5300000.0,Casablanca,340.0,10.0,4.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,2350000.0,Casablanca,132.0,7.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Palmier ,3550000.0,Casablanca,244.0,10.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,11000000.0,Casablanca,599.0,8.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Bourgogne Ouest ,7600000.0,Casablanca,487.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Sidi Maarouf ,900000.0,Casablanca,93.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Villas,Mandarona ,6400000.0,Casablanca,450.0,10.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1790000.0,Casablanca,131.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Villas,Ain Diab Extension ,18000000.0,Casablanca,1426.0,10.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab Extension ,4500000.0,Casablanca,330.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Hay Hassani ,720000.0,Casablanca,86.0,1.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,CIL (Hay Salam) ,830000.0,Casablanca,34.0,2.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Al Qods ,1995968.0,Casablanca,131.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1020000.0,Casablanca,83.0,2.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Laymoune ,1300000.0,Casablanca,104.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Hay Inara ,740000.0,Casablanca,74.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1200000.0,Casablanca,89.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1500000.0,Casablanca,108.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,8200000.0,Casablanca,74.0,2.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1500000.0,Casablanca,106.0,4.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,28880000.0,Casablanca,2500.0,10.0,6.0,5.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,35000000.0,Casablanca,2500.0,0.0,6.0,6.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,570000.0,Casablanca,54.0,5.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1500000.0,Casablanca,124.0,5.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Hay Mansour ,2000.0,Casablanca,60.0,2.0,1.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Sidi Moumen ,1995968.0,Casablanca,52.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Sidi Moumen ,1995968.0,Casablanca,101.0,4.0,3.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1000000.0,Casablanca,96.0,4.0,4.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Sidi Maarouf ,680000.0,Casablanca,80.0,2.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1100000.0,Casablanca,110.0,4.0,3.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,1850000.0,Casablanca,132.0,5.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Maisons,Beauséjour ,7200000.0,Casablanca,137.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1270000.0,Casablanca,105.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Mers Sultan ,250000.0,Casablanca,100.0,2.0,1.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Palmier ,1800000.0,Casablanca,129.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Mers Sultan ,1350000.0,Casablanca,109.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Anfa ,3000000.0,Casablanca,186.0,5.0,3.0,2.0,10.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,1995968.0,Casablanca,60.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,3480000.0,Casablanca,197.0,7.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca,3800000.0,Casablanca,185.0,5.0,4.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Racine ,4250000.0,Casablanca,267.0,5.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,1950000.0,Casablanca,156.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Derb Loubila ,950000.0,Casablanca,103.0,3.0,2.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1400000.0,Casablanca,112.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Villas,Californie ,50000000.0,Casablanca,2600.0,15.0,8.0,9.0,0.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,2500000.0,Casablanca,169.0,6.0,3.0,3.0,3.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,990000.0,Casablanca,45.0,1.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1950000.0,Casablanca,150.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1500000.0,Casablanca,118.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,1717500.0,Casablanca,51.0,2.0,1.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1750000.0,Casablanca,92.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Al Qods ,670000.0,Casablanca,80.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1780000.0,Casablanca,125.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1400000.0,Casablanca,105.0,3.0,2.0,2.0,7.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,4100000.0,Casablanca,237.0,4.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,3100000.0,Casablanca,149.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,2000000.0,Casablanca,111.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1340000.0,Casablanca,115.0,3.0,2.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,2480000.0,Casablanca,179.0,5.0,3.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1200000.0,Casablanca,130.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Roches Noires ,1995968.0,Casablanca,118.0,4.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Maisons,Bernoussi ,3282450.0,Casablanca,100.0,3.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,5000000.0,Casablanca,240.0,4.0,3.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1850000.0,Casablanca,135.0,5.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Anfa ,3250000.0,Casablanca,210.0,4.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,10000000.0,Casablanca,600.0,6.0,4.0,5.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,9700000.0,Casablanca,575.0,7.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,3500000.0,Casablanca,230.0,5.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Racine ,2650000.0,Casablanca,148.0,4.0,3.0,3.0,3.0,Non Specifique,Non Specifique
+Appartements,Racine ,2600000.0,Casablanca,169.0,4.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Burger ,1500000.0,Casablanca,107.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Burger ,2600000.0,Casablanca,169.0,4.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Villas,Californie ,13000000.0,Casablanca,1040.0,9.0,5.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine Extension ,2800000.0,Casablanca,194.0,6.0,4.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Racine Extension ,3200000.0,Casablanca,181.0,5.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,2400000.0,Casablanca,188.0,5.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Racine ,2450000.0,Casablanca,139.0,5.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Beausite ,400000.0,Casablanca,52.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Sidi Moumen ,370000.0,Casablanca,72.0,4.0,3.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,1500000.0,Casablanca,80.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Derb Ghalef ,1995968.0,Casablanca,185.0,4.0,3.0,3.0,1.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,12500000.0,Casablanca,700.0,7.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Ain Diab ,3500000.0,Casablanca,153.0,4.0,3.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,2235000.0,Casablanca,125.0,5.0,3.0,3.0,3.0,Non Specifique,Non Specifique
+Maisons,El Manar - El Hank ,6200000.0,Casablanca,400.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,3500000.0,Casablanca,245.0,6.0,3.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,Racine ,2500000.0,Casablanca,126.0,5.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Racine ,3600000.0,Casablanca,183.0,0.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Maisons,La Vilette ,1200000.0,Casablanca,168.0,11.0,7.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Lissasfa ,335000.0,Casablanca,50.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Derb Moulay Cherif ,12000000.0,Casablanca,168.0,11.0,7.0,3.0,3.0,Non Specifique,Non Specifique
+Appartements,Anassi ,640000.0,Casablanca,98.0,4.0,4.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Sidi Moumen ,370000.0,Casablanca,72.0,4.0,3.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,1262250.0,Casablanca,88.0,0.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,1369000.0,Casablanca,88.0,0.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,7500000.0,Casablanca,385.0,6.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,6800000.0,Casablanca,396.0,7.0,5.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Plateau (Al Batha) ,2900000.0,Casablanca,240.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,1995968.0,Casablanca,64.0,2.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,2300000.0,Casablanca,129.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Al Qods ,1995968.0,Casablanca,80.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,7300000.0,Casablanca,384.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,6300000.0,Casablanca,250.0,5.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1800000.0,Casablanca,129.0,4.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1995968.0,Casablanca,100.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1330000.0,Casablanca,53.0,2.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Hay Hassani ,360000.0,Casablanca,56.0,5.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Villas,Californie ,8500000.0,Casablanca,620.0,7.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,CIL (Hay Salam) ,2200000.0,Casablanca,192.0,3.0,2.0,3.0,4.0,Non Specifique,Non Specifique
+Appartements,Casablanca,6500000.0,Casablanca,100.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Casablanca,8800000.0,Casablanca,525.0,8.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca,2775580.0,Casablanca,164.0,6.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,650000.0,Casablanca,60.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Derb Ghalef ,950000.0,Casablanca,60.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,2400000.0,Casablanca,148.0,4.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1250000.0,Casablanca,78.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,780000.0,Casablanca,44.0,2.0,1.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Oasis ,2700000.0,Casablanca,149.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Oasis ,3700000.0,Casablanca,206.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Nassim 2 ,700000.0,Casablanca,71.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Casablanca,1750000.0,Casablanca,147.0,0.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,5990000.0,Casablanca,361.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Sidi Moumen ,1995968.0,Casablanca,101.0,4.0,3.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Sidi Moumen ,450000.0,Casablanca,56.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Palmier ,3400000.0,Casablanca,265.0,4.0,3.0,3.0,6.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1400000.0,Casablanca,75.0,2.0,1.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1256000.0,Casablanca,84.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Derb Ghalef ,3100000.0,Casablanca,248.0,9.0,6.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Anassi ,640000.0,Casablanca,73.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Quartier Bachkou ,1625000.0,Casablanca,108.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1890000.0,Casablanca,127.0,4.0,3.0,3.0,4.0,Non Specifique,Non Specifique
+Villas,Ain Diab Extension ,8200000.0,Casablanca,400.0,11.0,6.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Anfa ,1200000.0,Casablanca,55.0,2.0,1.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Al Qods ,540000.0,Casablanca,71.0,4.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1950000.0,Casablanca,160.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,2300000.0,Casablanca,120.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,2500000.0,Casablanca,144.0,5.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Sidi Moumen ,480000.0,Casablanca,59.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1350000.0,Casablanca,129.0,4.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Roches Noires ,930000.0,Casablanca,105.0,4.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Sidi Maarouf ,1600000.0,Casablanca,103.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1995968.0,Casablanca,46.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,1150000.0,Casablanca,90.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Ain Diab ,1100000.0,Casablanca,62.0,2.0,1.0,1.0,5.0,Non Specifique,Non Specifique
+Villas,El Manar - El Hank ,7700000.0,Casablanca,475.0,7.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1550000.0,Casablanca,100.0,7.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Franceville ,2200000.0,Casablanca,128.0,8.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Al Qods ,870000.0,Casablanca,100.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,5500000.0,Casablanca,256.0,8.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,3100000.0,Casablanca,220.0,9.0,3.0,3.0,3.0,Non Specifique,Non Specifique
+Appartements,Al Qods ,950000.0,Casablanca,91.0,4.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Ain Borja ,1058000.0,Casablanca,92.0,5.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Al Qods ,810000.0,Casablanca,85.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,300000.0,Casablanca,50.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Maisons,Hay Lalla Meriem ,550000.0,Casablanca,48.0,2.0,5.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Hay Zobir ,580000.0,Casablanca,76.0,2.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Villas,Hermitage ,8800000.0,Casablanca,880.0,10.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Racine Extension ,7980000.0,Casablanca,420.0,7.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,20631000.0,Casablanca,1058.0,9.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Al Qods ,1995968.0,Casablanca,74.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,45000.0,Casablanca,667.0,5.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Al Hadika ,1995968.0,Casablanca,70.0,2.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,2350000.0,Casablanca,104.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Sidi Maarouf ,500000.0,Casablanca,49.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Hay Tasahol ,630000.0,Casablanca,83.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Maisons,Hay M'barka ,3282450.0,Casablanca,220.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,8500000.0,Casablanca,477.0,7.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,16000000.0,Casablanca,1050.0,6.0,4.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Moulay Youssef ,1100000.0,Casablanca,72.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,700000.0,Casablanca,84.0,6.0,4.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Maârif ,4300000.0,Casablanca,215.0,4.0,4.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Racine ,4300000.0,Casablanca,256.0,4.0,3.0,1.0,2.0,Non Specifique,Non Specifique
+Villas,Anfa ,16500000.0,Casablanca,680.0,10.0,4.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Lissasfa ,1995968.0,Casablanca,54.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Mers Sultan ,3500000.0,Casablanca,222.0,3.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Villas,Anfa ,2800000.0,Casablanca,178.0,8.0,7.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif ,950000.0,Casablanca,58.0,2.0,1.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Nassim 1 ,1995968.0,Casablanca,59.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Mers Sultan ,1995968.0,Casablanca,56.0,2.0,1.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1490000.0,Casablanca,116.0,7.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Nassim 1 ,1680000.0,Casablanca,105.0,3.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,3200000.0,Casablanca,220.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Racine ,2450000.0,Casablanca,164.0,4.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Racine ,3600000.0,Casablanca,183.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Moulay Youssef ,1050000.0,Casablanca,74.0,4.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Beausite ,1097600.0,Casablanca,98.0,1.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,La Floride ,590000.0,Casablanca,70.0,2.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Californie ,1260000.0,Casablanca,153.0,6.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Ain Chock ,1500000.0,Casablanca,106.0,1.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,2250000.0,Casablanca,200.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,2320000.0,Casablanca,145.0,6.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,729000.0,Casablanca,73.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Palmier ,3700000.0,Casablanca,265.0,5.0,3.0,3.0,6.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,3000000.0,Casablanca,175.0,5.0,3.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Hay Chrifa ,1995968.0,Casablanca,130.0,1.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,2200000.0,Casablanca,138.0,3.0,2.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1995968.0,Casablanca,84.0,4.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Villas,Derb Ghalef ,12808345.0,Casablanca,390.0,12.0,7.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Ain Chock ,690000.0,Casablanca,75.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1550000.0,Casablanca,100.0,4.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,5000000.0,Casablanca,290.0,5.0,3.0,4.0,10.0,Non Specifique,Non Specifique
+Appartements,Derb Ghalef ,1995968.0,Casablanca,127.0,2.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Casablanca Marina ,3200000.0,Casablanca,113.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Ain Diab ,2150000.0,Casablanca,74.0,2.0,1.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,10000000.0,Casablanca,540.0,0.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Beauséjour ,1350000.0,Casablanca,107.0,2.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1500000.0,Casablanca,99.0,4.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Villas,Riviera ,9690000.0,Casablanca,510.0,2.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,4800000.0,Casablanca,121.0,5.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Ain Borja ,1200000.0,Casablanca,101.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Maisons,Sidi Maarouf ,1950000.0,Casablanca,200.0,3.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Maisons,Hay M'barka ,2100000.0,Casablanca,77.0,10.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,2800000.0,Casablanca,150.0,5.0,3.0,4.0,3.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,2450000.0,Casablanca,140.0,7.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1995968.0,Casablanca,50.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Sidi El Khadir ,1200000.0,Casablanca,129.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,608000.0,Casablanca,76.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,El Manar - El Hank ,3060000.0,Casablanca,122.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1760000.0,Casablanca,119.0,6.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,2200000.0,Casablanca,75.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,2100000.0,Casablanca,126.0,4.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,2873000.0,Casablanca,221.0,6.0,3.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,800000.0,Casablanca,75.0,2.0,1.0,1.0,6.0,Non Specifique,Non Specifique
+Appartements,Hay Hakam ,640000.0,Casablanca,72.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Californie ,3200000.0,Casablanca,193.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Anassi ,360000.0,Casablanca,60.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Anassi ,420000.0,Casablanca,64.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,CIL (Hay Salam) ,1450000.0,Casablanca,120.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3400000.0,Casablanca,229.0,6.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,30000000.0,Casablanca,733.0,0.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,3800000.0,Casablanca,150.0,5.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Beausite ,960000.0,Casablanca,80.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Lissasfa ,330000.0,Casablanca,50.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,2100000.0,Casablanca,189.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Anfa ,6900000.0,Casablanca,299.0,7.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,900000.0,Casablanca,87.0,4.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Beausite ,960000.0,Casablanca,80.0,2.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,2250000.0,Casablanca,200.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,1995968.0,Casablanca,94.0,5.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,760000.0,Casablanca,45.0,2.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,700000.0,Casablanca,39.0,1.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,750000.0,Casablanca,51.0,2.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1250000.0,Casablanca,91.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1480000.0,Casablanca,120.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Beauséjour ,2000000.0,Casablanca,194.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Casablanca,1600000.0,Casablanca,93.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Maisons,Derb Salama ,1300000.0,Casablanca,116.0,4.0,3.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,1560000.0,Casablanca,110.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Roches Noires ,1995968.0,Casablanca,86.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Sidi Moumen ,1995968.0,Casablanca,100.0,4.0,3.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,CIL (Hay Salam) ,1350000.0,Casablanca,106.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Derb Omar ,1680000.0,Casablanca,106.0,3.0,2.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,1590000.0,Casablanca,86.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,680000.0,Casablanca,45.0,4.0,1.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,4800000.0,Casablanca,577.0,7.0,5.0,3.0,4.0,Non Specifique,Non Specifique
+Appartements,Hay Moulay Abdellah ,900000.0,Casablanca,75.0,2.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Beausite ,900000.0,Casablanca,80.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Villas,Sidi Maarouf ,5000000.0,Casablanca,550.0,0.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Bernoussi ,3300000.0,Casablanca,46.0,2.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,2000000.0,Casablanca,104.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Maârif ,820000.0,Casablanca,43.0,4.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,810000.0,Casablanca,68.0,2.0,1.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,2900000.0,Casablanca,178.0,5.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,2000000.0,Casablanca,100.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Anfa ,2400000.0,Casablanca,179.0,6.0,2.0,3.0,20.0,Non Specifique,Non Specifique
+Appartements,Californie ,1995968.0,Casablanca,153.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1995968.0,Casablanca,146.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1995968.0,Casablanca,141.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Ain Diab ,4300000.0,Casablanca,230.0,4.0,3.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Al Azhar ,1995968.0,Casablanca,69.0,4.0,3.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1950000.0,Casablanca,131.0,5.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,380000.0,Casablanca,56.0,1.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Palmier ,3200000.0,Casablanca,169.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1950000.0,Casablanca,136.0,10.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,2650000.0,Casablanca,164.0,5.0,3.0,2.0,12.0,Non Specifique,Non Specifique
+Appartements,Palmier ,1800000.0,Casablanca,100.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,2100000.0,Casablanca,108.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les Crêtes ,3180000.0,Casablanca,216.0,4.0,4.0,3.0,2.0,Non Specifique,Non Specifique
+Villas,Polo ,8400000.0,Casablanca,805.0,4.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Oasis ,10800000.0,Casablanca,935.0,12.0,7.0,8.0,0.0,Non Specifique,Non Specifique
+Villas,Tantonville ,5300000.0,Casablanca,378.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,1150000.0,Casablanca,141.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1200000.0,Casablanca,53.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1995968.0,Casablanca,99.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Ain Diab Extension ,4100000.0,Casablanca,164.0,5.0,2.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Ain Chock ,660000.0,Casablanca,65.0,2.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,12000000.0,Casablanca,860.0,5.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Anfa ,2190000.0,Casablanca,131.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Villas,Californie ,12808345.0,Casablanca,1400.0,8.0,5.0,6.0,0.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,935000.0,Casablanca,89.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,550000.0,Casablanca,50.0,2.0,1.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,5000000.0,Casablanca,269.0,6.0,5.0,4.0,5.0,Non Specifique,Non Specifique
+Appartements,Burger ,1650000.0,Casablanca,128.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Racine Extension ,3800000.0,Casablanca,190.0,5.0,4.0,2.0,2.0,Non Specifique,Non Specifique
+Villas,Ain Diab Extension ,10000000.0,Casablanca,600.0,6.0,3.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,4500000.0,Casablanca,205.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1730000.0,Casablanca,128.0,5.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Racine ,3800000.0,Casablanca,190.0,5.0,3.0,3.0,4.0,Non Specifique,Non Specifique
+Appartements,Centre Ville ,1600000.0,Casablanca,135.0,4.0,3.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Sidi Maarouf ,1300000.0,Casablanca,123.0,4.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Maisons,Sidi Maarouf ,2950000.0,Casablanca,303.0,5.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Derb Omar ,1100000.0,Casablanca,94.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Maisons,Hay Mohammadi ,1450000.0,Casablanca,65.0,8.0,6.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Hay Alhoda ,240000.0,Casablanca,66.0,6.0,4.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Foncière ,1995968.0,Casablanca,173.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,2250000.0,Casablanca,200.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,13500000.0,Casablanca,1000.0,9.0,6.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1995968.0,Casablanca,75.0,1.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,790000.0,Casablanca,99.0,3.0,2.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Est ,1250000.0,Casablanca,51.0,2.0,1.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Ain Diab ,880000.0,Casablanca,58.0,2.0,1.0,1.0,7.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,4200000.0,Casablanca,244.0,5.0,3.0,2.0,6.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,450000.0,Casablanca,60.0,4.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Racine ,2990000.0,Casablanca,143.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Riviera ,2225000.0,Casablanca,117.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,1350000.0,Casablanca,97.0,4.0,2.0,2.0,5.0,Non Specifique,Non Specifique
+Villas,Sidi Maarouf ,4500000.0,Casablanca,440.0,5.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Al Azhar ,1995968.0,Casablanca,70.0,4.0,3.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Sidi Maarouf ,1130000.0,Casablanca,80.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Plateau (Al Batha) ,1995968.0,Casablanca,118.0,5.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,680000.0,Casablanca,64.0,2.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Maisons,Hay Hassani ,500000.0,Casablanca,240.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Palmier ,3060000.0,Casablanca,170.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,3600000.0,Casablanca,227.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,CIL (Hay Salam) ,2700000.0,Casablanca,164.0,4.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1995968.0,Casablanca,124.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Villas,Californie ,15500000.0,Casablanca,1025.0,7.0,4.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3300000.0,Casablanca,165.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Casablanca,40000000.0,Casablanca,1800.0,0.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine Extension ,1995968.0,Casablanca,191.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Tantonville ,1450000.0,Casablanca,81.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,1900000.0,Casablanca,91.0,4.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1100000.0,Casablanca,79.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1900000.0,Casablanca,80.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1500000.0,Casablanca,111.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,1500000.0,Casablanca,100.0,4.0,2.0,2.0,5.0,Non Specifique,Non Specifique
+Villas,Habbous ,5400000.0,Casablanca,420.0,5.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,1950000.0,Casablanca,139.0,3.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Maârif ,3200000.0,Casablanca,256.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Ain Chock ,1680000.0,Casablanca,105.0,4.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1200000.0,Casablanca,68.0,3.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Benjdia ,1310000.0,Casablanca,107.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,1500000.0,Casablanca,79.0,3.0,2.0,1.0,8.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,997000.0,Casablanca,95.0,5.0,3.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Sidi Moumen ,570000.0,Casablanca,77.0,4.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Villas,Oasis ,9500000.0,Casablanca,930.0,8.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Hay Zobir ,340000.0,Casablanca,55.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,1700000.0,Casablanca,86.0,3.0,2.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Al Qods ,1000000.0,Casablanca,94.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Ain Chock ,530000.0,Casablanca,60.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Villas,Casablanca,5500000.0,Casablanca,300.0,0.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,1580000.0,Casablanca,110.0,4.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1995968.0,Casablanca,101.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,2500000.0,Casablanca,132.0,3.0,2.0,3.0,3.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1400000.0,Casablanca,105.0,2.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1200000.0,Casablanca,82.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,1240000.0,Casablanca,103.0,5.0,3.0,2.0,9.0,Non Specifique,Non Specifique
+Appartements,Al Azhar ,1995968.0,Casablanca,104.0,4.0,3.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Nassim 1 ,1270000.0,Casablanca,115.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,300000.0,Casablanca,54.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1450000.0,Casablanca,112.0,4.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,2700000.0,Casablanca,164.0,6.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Maisons,Hay Mohammadi ,3282450.0,Casablanca,288.0,10.0,6.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,CIL (Hay Salam) ,1650000.0,Casablanca,111.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Nassim 1 ,9500000.0,Casablanca,500.0,8.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1750000.0,Casablanca,125.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Villas,Oulfa ,3950000.0,Casablanca,400.0,7.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Bernoussi ,400000.0,Casablanca,74.0,4.0,3.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,2089000.0,Casablanca,137.0,8.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Roches Noires ,880000.0,Casablanca,75.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,720000.0,Casablanca,66.0,2.0,1.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,780000.0,Casablanca,88.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,700000.0,Casablanca,63.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1340000.0,Casablanca,124.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Anassi ,500000.0,Casablanca,69.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Sidi Maarouf ,420000.0,Casablanca,59.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1030000.0,Casablanca,100.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Beauséjour ,1200000.0,Casablanca,98.0,2.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,2100000.0,Casablanca,113.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Hay Al Amal ,1600.0,Casablanca,33.0,1.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Nassim 2 ,1450000.0,Casablanca,143.0,5.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3000000.0,Casablanca,155.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,3950000.0,Casablanca,160.0,7.0,3.0,3.0,3.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,1130000.0,Casablanca,82.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Racine ,5100000.0,Casablanca,275.0,8.0,3.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,950000.0,Casablanca,64.0,1.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Racine ,3150000.0,Casablanca,160.0,7.0,3.0,3.0,3.0,Non Specifique,Non Specifique
+Villas,Anfa Supérieur ,24000000.0,Casablanca,805.0,6.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,1200000.0,Casablanca,59.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,2086500.0,Casablanca,107.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Beauséjour ,1300000.0,Casablanca,96.0,1.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,2500000.0,Casablanca,210.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Mers Sultan ,2500000.0,Casablanca,158.0,5.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1150000.0,Casablanca,101.0,1.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,2100000.0,Casablanca,116.0,3.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Franceville ,1610000.0,Casablanca,115.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,1100000.0,Casablanca,95.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,1850000.0,Casablanca,134.0,1.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Maisons,Hay Mohammadi ,3000000.0,Casablanca,158.0,1.0,15.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1200000.0,Casablanca,56.0,2.0,1.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Est ,1650000.0,Casablanca,118.0,4.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1850000.0,Casablanca,126.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1120000.0,Casablanca,81.0,4.0,2.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,1590000.0,Casablanca,124.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1000000.0,Casablanca,42.0,2.0,1.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,2050000.0,Casablanca,113.0,4.0,2.0,2.0,5.0,Non Specifique,Non Specifique
+Villas,Ain Diab Extension ,7100000.0,Casablanca,365.0,10.0,5.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,4500000.0,Casablanca,261.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,960000.0,Casablanca,95.0,5.0,3.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Hay Hassani ,1500000.0,Casablanca,124.0,3.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,1200000.0,Casablanca,55.0,3.0,1.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,660000.0,Casablanca,72.0,4.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Centre Ville ,450000.0,Casablanca,40.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Maisons,Sidi Maarouf ,2200000.0,Casablanca,80.0,7.0,5.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1100000.0,Casablanca,97.0,3.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Moulay Youssef ,3725000.0,Casablanca,146.0,4.0,3.0,3.0,4.0,Non Specifique,Non Specifique
+Appartements,Palmier ,17000.0,Casablanca,143.0,4.0,3.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,2100000.0,Casablanca,196.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1220000.0,Casablanca,75.0,3.0,2.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Anfa ,950000.0,Casablanca,46.0,2.0,1.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,830000.0,Casablanca,83.0,3.0,2.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Californie ,1400000.0,Casablanca,120.0,8.0,3.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Hay Lmkansa ,800000.0,Casablanca,73.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,720000.0,Casablanca,102.0,5.0,3.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Californie ,2000000.0,Casablanca,149.0,4.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,7800000.0,Casablanca,440.0,8.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,1000100.0,Casablanca,71.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Racine ,7000000.0,Casablanca,350.0,7.0,3.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3150000.0,Casablanca,138.0,6.0,2.0,2.0,6.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,6200000.0,Casablanca,206.0,10.0,3.0,3.0,8.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,5400000.0,Casablanca,373.0,6.0,3.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Plateau (Al Batha) ,2350000.0,Casablanca,130.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif ,4900000.0,Casablanca,188.0,7.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1850000.0,Casablanca,105.0,3.0,2.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1650000.0,Casablanca,100.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,4500000.0,Casablanca,286.0,9.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,2950000.0,Casablanca,171.0,5.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Bernoussi ,400000.0,Casablanca,84.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Sidi Maarouf ,660000.0,Casablanca,62.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Bernoussi ,650000.0,Casablanca,84.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Villas,Anfa ,6300000.0,Casablanca,360.0,7.0,3.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1250000.0,Casablanca,89.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,1250000.0,Casablanca,80.0,6.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Hay Alhoda ,1995968.0,Casablanca,40.0,1.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,750000.0,Casablanca,76.0,6.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,1050000.0,Casablanca,110.0,6.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,934500.0,Casablanca,89.0,6.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,934500.0,Casablanca,100.0,6.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,616000.0,Casablanca,56.0,3.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,770000.0,Casablanca,70.0,4.0,1.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,693000.0,Casablanca,65.0,3.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1900000.0,Casablanca,156.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,30000000.0,Casablanca,2100.0,8.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,50000000.0,Casablanca,1250.0,7.0,5.0,6.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1350000.0,Casablanca,124.0,7.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Racine ,1550000.0,Casablanca,75.0,2.0,1.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,2950000.0,Casablanca,243.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,1520000.0,Casablanca,150.0,7.0,5.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Mers Sultan ,3500000.0,Casablanca,222.0,3.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Al Osra ,1200000.0,Casablanca,114.0,4.0,3.0,1.0,15.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,950000.0,Casablanca,63.0,2.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Bernoussi ,750000.0,Casablanca,82.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,3100000.0,Casablanca,179.0,3.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Anfa ,2200000.0,Casablanca,175.0,3.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,770000.0,Casablanca,87.0,4.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,3200000.0,Casablanca,191.0,3.0,3.0,3.0,4.0,Non Specifique,Non Specifique
+Appartements,Roches Noires ,800000.0,Casablanca,107.0,2.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1330000.0,Casablanca,90.0,4.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1995968.0,Casablanca,160.0,6.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1350000.0,Casablanca,103.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Ain Borja ,640000.0,Casablanca,64.0,3.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Bernoussi ,750000.0,Casablanca,82.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,580000.0,Casablanca,62.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Tacharouk (Hay Al Walaa) ,350000.0,Casablanca,70.0,3.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Maisons,Hay Tarik ,1150000.0,Casablanca,81.0,6.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1200000.0,Casablanca,80.0,8.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,2900000.0,Casablanca,175.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,3400000.0,Casablanca,143.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,18000000.0,Casablanca,1079.0,0.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca,850000.0,Casablanca,37.0,0.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Bernoussi ,340000.0,Casablanca,66.0,3.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,44000000.0,Casablanca,2250.0,8.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,1850000.0,Casablanca,99.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1450000.0,Casablanca,99.0,2.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Centre Ville ,585000.0,Casablanca,45.0,1.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,2100000.0,Casablanca,180.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,2100000.0,Casablanca,134.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,1530000.0,Casablanca,120.0,3.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Anfa ,950000.0,Casablanca,46.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Lissasfa ,1995968.0,Casablanca,30.0,4.0,3.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Ain Borja ,700000.0,Casablanca,77.0,3.0,2.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Racine ,3400000.0,Casablanca,195.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Palmier ,2600000.0,Casablanca,172.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,980000.0,Casablanca,85.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Tacharouk (Hay Al Walaa) ,350000.0,Casablanca,70.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Al Qods ,660000.0,Casablanca,72.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Racine Extension ,3000000.0,Casablanca,150.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Ain Diab ,2650000.0,Casablanca,77.0,2.0,1.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Palmier ,1300000.0,Casablanca,65.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Hay Chrifa ,960000.0,Casablanca,81.0,5.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Tantonville ,1850000.0,Casablanca,160.0,5.0,3.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,850000.0,Casablanca,76.0,6.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Villas,Hay Hassani ,2250000.0,Casablanca,350.0,8.0,6.0,2.0,0.0,Non Specifique,Non Specifique
+Maisons,Beausite ,4999000.0,Casablanca,119.0,7.0,3.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Al Qods ,850000.0,Casablanca,95.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,1850000.0,Casablanca,102.0,3.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,660000.0,Casablanca,74.0,4.0,3.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,2100000.0,Casablanca,125.0,3.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,2100000.0,Casablanca,189.0,3.0,3.0,3.0,10.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,7000.0,Casablanca,124.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1490000.0,Casablanca,92.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Roches Noires ,900000.0,Casablanca,96.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Bernoussi ,380000.0,Casablanca,50.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,1995968.0,Casablanca,60.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,2016500.0,Casablanca,109.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1200000.0,Casablanca,143.0,6.0,3.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Anassi ,380000.0,Casablanca,60.0,1.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,6200000.0,Casablanca,257.0,5.0,4.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,3025000.0,Casablanca,126.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Maisons,La Floride ,2800000.0,Casablanca,303.0,7.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Sidi Moumen ,550000.0,Casablanca,79.0,1.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Mandarona ,1700000.0,Casablanca,99.0,2.0,3.0,1.0,3.0,Non Specifique,Non Specifique
+Villas,Aïn Sebaâ ,3600000.0,Casablanca,392.0,4.0,10.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,5990000.0,Casablanca,244.0,3.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Villas,Anfa ,36000000.0,Casablanca,1600.0,10.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,2100000.0,Casablanca,118.0,2.0,2.0,1.0,7.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,2100000.0,Casablanca,113.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1495000.0,Casablanca,106.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Centre Ville ,1995968.0,Casablanca,120.0,4.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,550000.0,Casablanca,57.0,3.0,3.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Racine ,3300000.0,Casablanca,200.0,0.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,La Vilette ,820000.0,Casablanca,80.0,5.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,2600000.0,Casablanca,131.0,1.0,3.0,3.0,3.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,7700000.0,Casablanca,574.0,5.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Oasis ,1100000.0,Casablanca,55.0,2.0,1.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Zone Industrielle Moulay Rachid ,1995968.0,Casablanca,61.0,4.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Al Madina Aljadida ,1995968.0,Casablanca,59.0,4.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Ain Borja ,1995968.0,Casablanca,85.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,1810000.0,Casablanca,108.0,3.0,2.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,Bernoussi ,400000.0,Casablanca,60.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Racine ,3950000.0,Casablanca,238.0,5.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Californie ,1725000.0,Casablanca,130.0,5.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Bernoussi ,400000.0,Casablanca,60.0,1.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,880000.0,Casablanca,91.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1680000.0,Casablanca,112.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1287900.0,Casablanca,80.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Maisons,Ain Chock ,4000000.0,Casablanca,100.0,4.0,3.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Est ,1050000.0,Casablanca,87.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Al Azhar ,520000.0,Casablanca,84.0,5.0,3.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Ain Borja ,1150000.0,Casablanca,132.0,2.0,2.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Roches Noires ,814000.0,Casablanca,74.0,1.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Villas,Anfa ,12808345.0,Casablanca,488.0,11.0,9.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Derb Loubila ,1100000.0,Casablanca,87.0,2.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Sidi Moumen ,1995968.0,Casablanca,67.0,1.0,3.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,CIL (Hay Salam) ,3100000.0,Casablanca,150.0,4.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Al Azhar ,1995968.0,Casablanca,67.0,4.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Villas,Anfa ,18500000.0,Casablanca,1000.0,9.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Villas,El Manar - El Hank ,12000000.0,Casablanca,600.0,8.0,4.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,El Manar - El Hank ,1100000.0,Casablanca,86.0,2.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1300000.0,Casablanca,81.0,3.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,2511000.0,Casablanca,186.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,2850000.0,Casablanca,219.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,1500000.0,Casablanca,74.0,2.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,816000.0,Casablanca,48.0,2.0,1.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,13000000.0,Casablanca,760.0,0.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,17000000.0,Casablanca,550.0,0.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Casablanca,15800000.0,Casablanca,500.0,0.0,5.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine Extension ,1650000.0,Casablanca,110.0,0.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Maârif ,2800000.0,Casablanca,163.0,5.0,3.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,Racine ,7000000.0,Casablanca,410.0,4.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,750000.0,Casablanca,84.0,4.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Anfa ,2150000.0,Casablanca,133.0,4.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Villas,Californie ,14000000.0,Casablanca,1200.0,6.0,5.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,3250000.0,Casablanca,123.0,3.0,2.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,2750000.0,Casablanca,150.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1890000.0,Casablanca,290.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,4900000.0,Casablanca,318.0,5.0,4.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,Al Hadika ,860000.0,Casablanca,96.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Franceville ,11000.0,Casablanca,249.0,8.0,5.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Palmier ,3100000.0,Casablanca,168.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,892500.0,Casablanca,85.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,El Manar - El Hank ,1995968.0,Casablanca,104.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif ,2108500.0,Casablanca,103.0,3.0,2.0,0.0,2.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,550000.0,Casablanca,50.0,3.0,1.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Roches Noires ,1995968.0,Casablanca,70.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Villas,Ain Diab Extension ,7700000.0,Casablanca,400.0,6.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,2750000.0,Casablanca,185.0,4.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Maisons,Anassi ,500000.0,Casablanca,84.0,4.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Mers Sultan ,1600000.0,Casablanca,132.0,8.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Sidi Moumen ,1995968.0,Casablanca,84.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,2500000.0,Casablanca,153.0,4.0,3.0,2.0,8.0,Non Specifique,Non Specifique
+Appartements,CIL (Hay Salam) ,2500000.0,Casablanca,136.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Hay Zobir ,1060000.0,Casablanca,101.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Californie ,1300000.0,Casablanca,100.0,4.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Al Qods ,720000.0,Casablanca,76.0,4.0,3.0,1.0,4.0,Non Specifique,Non Specifique
+Maisons,Sidi Maarouf ,2750000.0,Casablanca,320.0,8.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,640000.0,Casablanca,74.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,320000.0,Casablanca,50.0,1.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,La Gironde ,1150000.0,Casablanca,109.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Villas,Californie ,8000000.0,Casablanca,510.0,13.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,4000000.0,Casablanca,176.0,6.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Est ,10000.0,Casablanca,172.0,7.0,5.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Racine ,3600000.0,Casablanca,180.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Les princesses ,2150000.0,Casablanca,108.0,6.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Al Qods ,820000.0,Casablanca,89.0,2.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,2500000.0,Casablanca,150.0,8.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,2500000.0,Casablanca,132.0,8.0,3.0,2.0,4.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,13500000.0,Casablanca,972.0,12.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,2200000.0,Casablanca,112.0,4.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,950000.0,Casablanca,55.0,1.0,1.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Maârif ,4900000.0,Casablanca,318.0,7.0,5.0,4.0,3.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,16000000.0,Casablanca,525.0,7.0,4.0,6.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,12808345.0,Casablanca,1850.0,10.0,6.0,7.0,0.0,Non Specifique,Non Specifique
+Appartements,Quartier Cheminots ,1995968.0,Casablanca,82.0,6.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,500000.0,Casablanca,57.0,3.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,300000.0,Casablanca,52.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,4200000.0,Casablanca,204.0,4.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Sidi Maarouf ,370000.0,Casablanca,55.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Mers Sultan ,1000000.0,Casablanca,71.0,4.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,2500000.0,Casablanca,161.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,11950000.0,Casablanca,567.0,10.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,9500000.0,Casablanca,414.0,10.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1780000.0,Casablanca,110.0,4.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Maisons,Oulfa ,2500000.0,Casablanca,83.0,7.0,3.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Hay Mohammadi ,660000.0,Casablanca,98.0,3.0,2.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3000000.0,Casablanca,200.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,El Manar - El Hank ,1100000.0,Casablanca,96.0,4.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,3200000.0,Casablanca,175.0,4.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Derb Ghalef ,1995968.0,Casablanca,45.0,2.0,1.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Californie ,1100000.0,Casablanca,86.0,2.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,750000.0,Casablanca,85.0,3.0,2.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1050000.0,Casablanca,92.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,2191500.0,Casablanca,119.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Roches Noires ,900000.0,Casablanca,86.0,3.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,15500000.0,Casablanca,800.0,0.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Port ,39000000.0,Casablanca,800.0,0.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,2550000.0,Casablanca,142.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,19500000.0,Casablanca,1171.0,0.0,4.0,0.0,0.0,Non Specifique,Non Specifique
+Appartements,Port ,4700000.0,Casablanca,190.0,0.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,CIL (Hay Salam) ,9000000.0,Casablanca,421.0,0.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,CIL (Hay Salam) ,9000000.0,Casablanca,421.0,0.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Port ,12000000.0,Casablanca,439.0,0.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,7200000.0,Casablanca,550.0,0.0,4.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Racine ,2600000.0,Casablanca,126.0,4.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Maârif ,2500000.0,Casablanca,193.0,5.0,2.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Racine ,1550000.0,Casablanca,83.0,2.0,1.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1200000.0,Casablanca,80.0,2.0,1.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1180000.0,Casablanca,72.0,2.0,1.0,1.0,7.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1460000.0,Casablanca,124.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Palmier ,3000000.0,Casablanca,205.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,800000.0,Casablanca,96.0,2.0,1.0,2.0,7.0,Non Specifique,Non Specifique
+Maisons,Aïn Sebaâ ,3282450.0,Casablanca,210.0,4.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,39000000.0,Casablanca,1700.0,9.0,6.0,6.0,0.0,Non Specifique,Non Specifique
+Appartements,Riviera ,880000.0,Casablanca,40.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Derb Moulay Cherif ,380000.0,Casablanca,55.0,2.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Maisons,Hay Moulay Abdellah ,2600000.0,Casablanca,100.0,8.0,6.0,2.0,0.0,Non Specifique,Non Specifique
+Maisons,Hay Albaraka ,3200000.0,Casablanca,110.0,15.0,5.0,5.0,0.0,Non Specifique,Non Specifique
+Appartements,Derb Omar ,300000.0,Casablanca,90.0,4.0,2.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,1500000.0,Casablanca,91.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,2600000.0,Casablanca,150.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Oulfa ,3200000.0,Casablanca,231.0,4.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Maârif ,3265000.0,Casablanca,227.0,5.0,3.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Maârif ,1540000.0,Casablanca,106.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Villas,Californie ,6900000.0,Casablanca,436.0,7.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1140000.0,Casablanca,112.0,4.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Sidi Maarouf ,1100000.0,Casablanca,125.0,5.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,950000.0,Casablanca,48.0,2.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Sidi Moumen ,600000.0,Casablanca,69.0,2.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Sidi Maarouf ,775000.0,Casablanca,70.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,1995968.0,Casablanca,57.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,780000.0,Casablanca,51.0,2.0,1.0,1.0,1.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1995968.0,Casablanca,105.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca,3300000.0,Casablanca,240.0,5.0,3.0,0.0,4.0,Non Specifique,Non Specifique
+Appartements,Hay Chrifa ,1995968.0,Casablanca,87.0,4.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,4650000.0,Casablanca,192.0,5.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,1300000.0,Casablanca,113.0,4.0,2.0,2.0,1.0,Non Specifique,Non Specifique
+Villas,Anfa ,25000000.0,Casablanca,602.0,0.0,5.0,6.0,0.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,1022000.0,Casablanca,73.0,4.0,2.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Hermitage ,1097000.0,Casablanca,64.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Triangle d'Or ,2500000.0,Casablanca,148.0,5.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,CIL (Hay Salam) ,2000000.0,Casablanca,122.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,649000.0,Casablanca,63.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,2400000.0,Casablanca,150.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Californie ,1358000.0,Casablanca,97.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,950000.0,Casablanca,47.0,2.0,1.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,380000.0,Casablanca,49.0,5.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,1300000.0,Casablanca,108.0,5.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Longchamps (Hay Al Hanâa) ,10500000.0,Casablanca,560.0,3.0,4.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1500000.0,Casablanca,120.0,7.0,3.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Hay Salama ,830000.0,Casablanca,72.0,3.0,2.0,1.0,5.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,520000.0,Casablanca,54.0,5.0,3.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,1500000.0,Casablanca,150.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Bernoussi ,940000.0,Casablanca,100.0,3.0,3.0,2.0,1.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,350000.0,Casablanca,46.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1020000.0,Casablanca,83.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Nassim 1 ,930000.0,Casablanca,115.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,3200000.0,Casablanca,281.0,5.0,3.0,2.0,5.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,2400000.0,Casablanca,164.0,5.0,3.0,2.0,6.0,Non Specifique,Non Specifique
+Villas,La Floride ,4600000.0,Casablanca,346.0,6.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Riviera ,1790000.0,Casablanca,120.0,4.0,3.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Palmier ,2030000.0,Casablanca,135.0,4.0,3.0,2.0,6.0,Non Specifique,Non Specifique
+Appartements,Sidi Maarouf ,800000.0,Casablanca,79.0,3.0,2.0,2.0,0.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,560000.0,Casablanca,60.0,3.0,2.0,1.0,2.0,Non Specifique,Non Specifique
+Appartements,Hay Adil ,1995968.0,Casablanca,83.0,5.0,4.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Oulfa ,390000.0,Casablanca,50.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Aïn Sebaâ ,1995968.0,Casablanca,64.0,2.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Ain Diab ,2650000.0,Casablanca,172.0,4.0,3.0,3.0,1.0,Non Specifique,Non Specifique
+Appartements,Hay Arsalan ,820000.0,Casablanca,116.0,1.0,3.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Al Hassania ,594000.0,Casablanca,54.0,3.0,2.0,1.0,3.0,Non Specifique,Non Specifique
+Appartements,Maârif Extension ,1650000.0,Casablanca,96.0,3.0,1.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Gauthier ,3200000.0,Casablanca,197.0,6.0,4.0,3.0,5.0,Non Specifique,Non Specifique
+Appartements,Belvédère ,935000.0,Casablanca,85.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,2400000.0,Casablanca,137.0,5.0,3.0,2.0,2.0,Non Specifique,Non Specifique
+Villas,Polo ,8000000.0,Casablanca,800.0,5.0,3.0,3.0,0.0,Non Specifique,Non Specifique
+Villas,Ain Diab ,14000000.0,Casablanca,700.0,7.0,4.0,4.0,0.0,Non Specifique,Non Specifique
+Appartements,Casablanca Finance City ,2350000.0,Casablanca,103.0,3.0,2.0,2.0,3.0,Non Specifique,Non Specifique
+Appartements,Palmier ,14200.0,Casablanca,284.0,7.0,5.0,3.0,2.0,Non Specifique,Non Specifique
+Appartements,Bourgogne Ouest ,1550000.0,Casablanca,97.0,3.0,2.0,1.0,0.0,Non Specifique,Non Specifique
+Appartements,Ferme Bretonne (Hay Arraha) ,2266250.0,Casablanca,115.0,4.0,3.0,2.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,7200000.0,Casablanca,450.0,5.0,4.0,5.0,0.0,Non Specifique,Non Specifique
+Villas,Californie ,16000000.0,Casablanca,1040.0,8.0,5.0,6.0,0.0,Non Specifique,Non Specifique
+Appartements,Val Fleury ,1140000.0,Casablanca,74.0,3.0,2.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Hermitage ,870000.0,Casablanca,56.0,2.0,1.0,2.0,4.0,Non Specifique,Non Specifique
+Appartements,Hay Arrahma ,495000.0,Casablanca,68.0,3.0,2.0,1.0,4.0,Non Specifique,Non Specifique
+Appartements,Les Hôpitaux ,2760000.0,Casablanca,230.0,9.0,3.0,3.0,6.0,Non Specifique,Non Specifique
