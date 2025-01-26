@@ -24,6 +24,9 @@ Pour démarrer avec le projet, suivez ces étapes :
 ```bash
 git clone https://github.com/mohamed-maiski/Prediction-des-Prix-Immobiliers-au-Maroc.git
 ```
+```bash
+cd Prediction-des-Prix-Immobiliers-au-Maroc
+```
 2. Installez les dépendances du projet en exécutant la commande suivante :
 ```bash
 pip install -r requirements.txt
