@@ -22,7 +22,7 @@ Pour démarrer avec le projet, suivez ces étapes :
 
 1. Clonez ce dépôt sur votre machine locale :
 ```bash
-git clone https://github.com/usmanbvp/Real-Estate-Prediction.git
+git clone https://github.com/mohamed-maiski/Prediction-des-Prix-Immobiliers-au-Maroc.git
 ```
 2. Installez les dépendances du projet en exécutant la commande suivante :
 ```bash
