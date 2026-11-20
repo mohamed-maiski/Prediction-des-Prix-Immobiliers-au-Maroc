@@ -1,145 +1,279 @@
-# Prédiction des prix immobiliers au Maroc
+# Prédiction et analyse des prix immobiliers au Maroc
 
-Projet d'analyse de données immobilières et de prédiction de prix avec Python, scikit-learn et Flask. Les notebooks explorent les annonces, préparent les données et comparent plusieurs modèles de régression. L'interface web permet de saisir les caractéristiques d'un bien et d'obtenir une estimation en dirhams marocains (MAD / DH).
+Application web de prédiction de prix immobiliers, associée à une analyse exploratoire des annonces et à la comparaison de modèles de régression. Le projet relie la préparation des données dans des notebooks Jupyter à une interface Flask utilisant un modèle **Random Forest Regressor**.
 
-> **Périmètre actuel : Casablanca.** Malgré le titre du projet, le jeu de données final ne contient que cette ville. Le projet est un prototype ; ses résultats ne sont pas encore validés pour une utilisation réelle ni pour d'autres villes.
+**Périmètre des données : Casablanca · Devise : dirham marocain (MAD / DH) · Surface : m²**
 
-## Fonctionnalités
+![Page d’accueil de l’application](docs/interfaces/accueil.png)
 
-- Exploration des prix, surfaces, quartiers et types de biens dans les notebooks.
-- Comparaison de modèles, dont la régression linéaire, Random Forest et XGBoost.
-- Application Flask utilisant un modèle Random Forest sauvegardé.
-- Pages d'accueil, d'analyse, de présentation, de prédiction et de contact.
-- Enregistrement des messages de contact dans MySQL, sous réserve de configurer la base.
+## Sommaire
+
+- [Présentation](#présentation)
+- [Fonctionnalités et interfaces](#fonctionnalités-et-interfaces)
+- [Technologies](#technologies)
+- [Données](#données)
+- [Démarche de modélisation](#démarche-de-modélisation)
+- [Organisation du dépôt](#organisation-du-dépôt)
+- [Installation et démarrage](#installation-et-démarrage)
+- [Routes de l’application](#routes-de-lapplication)
+- [État technique et améliorations](#état-technique-et-améliorations)
+
+## Présentation
+
+Réalisé dans le cadre d’un stage technique chez **TECH-57**, en filière **Informatique Décisionnelle et Statistiques** à l’**École Supérieure de Technologie de Fkih Ben Salah**, ce projet vise à :
+
+- explorer les relations entre les prix et les caractéristiques des biens ;
+- comparer plusieurs méthodes de régression ;
+- proposer une interface de saisie pour estimer le prix d’un bien ;
+- présenter les distributions de prix et les différences entre quartiers et types de biens.
+
+Le titre décrit l’ambition du projet à l’échelle du Maroc. Les trois fichiers de données présents dans le dépôt concernent Casablanca ; l’application ne dispose pas de données permettant de valider une généralisation aux autres villes.
+
+## Fonctionnalités et interfaces
+
+Les deux captures présentées ici sont extraites du rapport de stage : figures 4 et 5, pages 17 et 18. Elles illustrent la version présentée dans le rapport ; la disposition de certains éléments diffère des templates actuels.
+
+### Accueil
+
+Présentation du projet, navigation vers les pages de l’application et accès au formulaire de prédiction. La capture d’accueil figure en tête de ce document.
+
+### Prédiction
+
+Formulaire de description d’un bien, zone d’affichage du prix estimé en DH, détails du modèle et tableau d’exemples d’annonces. Le tableau est alimenté par quatre exemples écrits dans le template.
+
+![Formulaire et résultat de prédiction présentés dans le rapport](docs/interfaces/prediction.png)
+
+### À propos
+
+Présentation du projet et de son équipe dans `templates/about.html`. Aucune capture dédiée à cette page n’apparaît dans la section des interfaces du rapport.
+
+## Technologies
+
+| Composant | Technologies présentes dans le dépôt |
+| --- | --- |
+| Application web | Python, Flask, templates HTML |
+| Interface | CSS, JavaScript, Tom Select, Font Awesome |
+| Manipulation des données | pandas, NumPy |
+| Modélisation | scikit-learn, XGBoost dans les notebooks |
+| Visualisation | Matplotlib, Seaborn, Plotly ; intégration Power BI dans la page Analyse |
+| Persistance des messages | MySQL, connecteur Python |
+| Expérimentation | Jupyter Notebook |
+| Sérialisation du modèle | pickle |
+
+Le rapport décrit un déploiement sur PythonAnywhere. Le dépôt ne fournit pas de configuration de déploiement ni d’adresse de démonstration vérifiable à partir de ses fichiers.
 
 ## Données
 
-| Fichier | Contenu | Nombre de lignes |
-| --- | --- | ---: |
-| `data/mubawab_listings_casablanca.csv` | Annonces brutes associées à Mubawab | 3 300 |
-| `data/data_clean.csv` | Données nettoyées | 1 771 |
-| `data/final_data.csv` | Données utilisées par l'application | 1 766 |
+Le rapport décrit une collecte par web scraping. Le fichier brut porte le nom de Mubawab ; le script de collecte et la date exacte de collecte ne sont pas inclus dans le dépôt.
 
-La cible est `Price`. Les dix variables attendues par l'application sont, dans cet ordre :
+| Fichier | Rôle | Lignes | Colonnes |
+| --- | --- | ---: | ---: |
+| `data/mubawab_listings_casablanca.csv` | Annonces brutes et caractéristiques dans les tags | 3 300 | 7 |
+| `data/data_clean.csv` | Données nettoyées et caractéristiques extraites | 1 771 | 13 |
+| `data/final_data.csv` | Données finales chargées par l’application | 1 766 | 11 |
 
-```text
-Type, Localisation, City, Area, Rooms, Bedrooms, Bathrooms, Floor, Current_state, Age
-```
+Le fichier final contient **1 358 appartements, 368 villas, 37 maisons et 3 riads**. Toutes ses lignes portent la ville `Casablanca`.
 
-La date de collecte, la méthode de collecte et les droits de redistribution des annonces restent à documenter. Les prix d'annonces ne constituent pas une validation des prix de transaction. Vérifier les doublons, les valeurs atypiques et l'homogénéité des annonces avant de réentraîner le modèle.
+### Variables utilisées
 
-## Structure du dépôt
+La cible est `Price`, le prix annoncé en dirhams. Le serveur transmet au modèle les dix variables suivantes, dans cet ordre :
+
+| Variable | Signification |
+| --- | --- |
+| `Type` | Type de bien |
+| `Localisation` | Quartier du bien |
+| `City` | Ville |
+| `Area` | Surface en m² |
+| `Rooms` | Nombre de pièces |
+| `Bedrooms` | Nombre de chambres |
+| `Bathrooms` | Nombre de salles de bains |
+| `Floor` | Étage |
+| `Current_state` | État du bien |
+| `Age` | Tranche d’ancienneté |
+
+Les prix proviennent d’annonces. L’évaluation porte donc sur ces données et ne mesure pas directement l’écart aux prix de transaction.
+
+## Démarche de modélisation
+
+Le notebook principal, `notebook/notebook.ipynb`, rassemble les étapes de préparation et de modélisation : extraction des caractéristiques depuis les tags, nettoyage, traitement des valeurs manquantes, encodage des catégories avec `LabelEncoder`, standardisation avec `StandardScaler`, séparation des données et comparaison de régressions.
+
+Les expériences comprennent la régression linéaire, Ridge, Lasso, un arbre de décision, Random Forest, KNN, XGBoost et RANSAC. Le notebook `notebook/analyse.ipynb` rassemble des analyses et visualisations complémentaires.
+
+### Modèle chargé par l’application
+
+- `models/random_forest_model.pkl` : modèle de régression sérialisé.
+- `models/label_encoders_and_scaler.pkl` : encodeurs de catégories et scaler.
+- Métadonnées de sérialisation des deux fichiers : **scikit-learn `1.4.1.post1`**.
+
+Au démarrage, Flask charge ces deux fichiers et `data/final_data.csv`. Lors d’une requête de prédiction, le serveur construit un DataFrame à partir du formulaire, lui ajoute dix lignes tirées au hasard du jeu final, applique le prétraitement puis renvoie la première prédiction.
+
+### Résultats enregistrés
+
+Les sorties sauvegardées du notebook principal contiennent notamment :
+
+| Expérience Random Forest | R² d’entraînement | R² de test |
+| --- | ---: | ---: |
+| 200 arbres, séparation de test à 20 %, graine de séparation non fixée | 0,968 | 0,758 |
+| 200 arbres, séparation de test à 20 %, `random_state=33` pour la séparation | 0,966 | 0,829 |
+
+Ces chiffres proviennent des sorties enregistrées, sans réexécution. Les cellules modifient plusieurs fois les jeux de données et les modèles ; ces résultats ne constituent pas une évaluation identifiée du fichier `.pkl` distribué.
+
+La valeur **90 %** visible dans l’interface est définie dans le code et le template. Elle n’est pas calculée lors d’une prédiction. Le R² évalue un modèle sur un ensemble de données ; il ne représente pas une probabilité de justesse pour un bien individuel.
+
+## Organisation du dépôt
 
 ```text
 Prediction-des-Prix-Immobiliers-au-Maroc/
-├── app.py                              # Routes Flask et prédiction
-├── requirements.txt                    # Dépendances actuelles, à compléter
-├── data/                               # Données brutes et préparées
+├── app.py
+├── requirements.txt
+├── README.md
+├── data/
+│   ├── mubawab_listings_casablanca.csv
+│   ├── data_clean.csv
+│   └── final_data.csv
+├── docs/
+│   └── interfaces/
+│       ├── accueil.png
+│       ├── prediction.png
+│       ├── analyse.png
+│       └── contact.png
 ├── models/
 │   ├── random_forest_model.pkl
 │   └── label_encoders_and_scaler.pkl
 ├── notebook/
-│   ├── notebook.ipynb                   # Préparation et modélisation
-│   └── analyse.ipynb                    # Analyses et visualisations
-├── static/                             # CSS, JavaScript et images
-└── templates/                          # Pages HTML de l'application
+│   ├── notebook.ipynb
+│   └── analyse.ipynb
+├── static/
+│   ├── imgs/
+│   ├── main.js
+│   └── fichiers CSS
+└── templates/
+    ├── home.html
+    ├── predict.html
+    ├── analyse.html
+    ├── about.html
+    └── contact.html
 ```
 
-## Installation locale
+## Installation et démarrage
 
-### 1. Cloner le dépôt
+### 1. Récupérer le projet
 
 ```bash
 git clone https://github.com/mohamed-maiski/Prediction-des-Prix-Immobiliers-au-Maroc.git
 cd Prediction-des-Prix-Immobiliers-au-Maroc
 ```
 
-### 2. Créer un environnement virtuel
+### 2. Créer un environnement Python
 
-Python 3.11 constitue un point de départ pour reproduire l'environnement visible dans les sorties des notebooks. Une installation complète dans un environnement vierge reste à valider.
+Les notebooks indiquent Python **3.11.3**. Utiliser Python **3.11** pour se rapprocher de cet environnement.
 
 ```bash
 python -m venv .venv
 ```
 
-Sous Windows PowerShell :
+Activation sous Windows PowerShell :
 
 ```powershell
 .\.venv\Scripts\Activate.ps1
 ```
 
-Sous Linux / macOS :
+Activation sous Linux ou macOS :
 
 ```bash
 source .venv/bin/activate
 ```
 
-### 3. Installer les dépendances
+### 3. Installer les bibliothèques de l’application
+
+Le fichier `requirements.txt` actuel omet scikit-learn et référence des paquets MySQL historiques. Pour préparer les dépendances directement utilisées par `app.py` :
 
 ```bash
-python -m pip install -r requirements.txt
-python -m pip install scikit-learn==1.4.1.post1
+python -m pip install numpy==1.24.3 pandas==2.0.3 Flask==2.3.2 scikit-learn==1.4.1.post1 mysql-connector-python
 ```
 
-**Le fichier `requirements.txt` est incomplet.** scikit-learn est nécessaire pour charger les modèles, mais n'y figure pas. Les deux fichiers `.pkl` contiennent la version `1.4.1.post1` dans leurs métadonnées ; cette version sert donc de référence pour leur chargement. Les dépendances MySQL actuelles doivent également être revues et l'installation vérifiée dans un environnement neuf.
+Cette commande reprend les versions NumPy, pandas et Flask du dépôt, ainsi que la version scikit-learn des fichiers sérialisés. L’installation complète dans un environnement vierge et la compatibilité du connecteur MySQL restent à valider.
 
-Les notebooks nécessitent des bibliothèques supplémentaires selon les cellules exécutées : Jupyter, matplotlib, seaborn, scipy, plotly, xgboost, imbalanced-learn, geopy et folium. Leur environnement et leurs versions restent à formaliser séparément de ceux de l'application.
+Pour explorer les notebooks, ajouter les bibliothèques utilisées par leurs cellules :
 
-### 4. Lancer l'application
+```bash
+python -m pip install jupyter matplotlib seaborn scipy plotly xgboost imbalanced-learn geopy folium
+```
 
-Depuis la racine du dépôt :
+Les versions de ces dépendances d’exploration ne sont pas figées. Les notebooks contiennent des chemins locaux et des cellules expérimentales à adapter avant une exécution intégrale.
+
+### 4. Préparer MySQL pour les messages de contact
+
+MySQL intervient lors de l’envoi d’un message ; les autres pages et le chargement du modèle ne nécessitent pas de connexion à la base.
+
+La fonction `SendContact()` dans `app.py` utilise actuellement :
+
+| Paramètre | Valeur dans le code |
+| --- | --- |
+| Hôte | `localhost` |
+| Base | `stage` |
+| Utilisateur | `root` |
+| Mot de passe | Chaîne vide |
+
+Adapter ces paramètres à l’instance locale. Le schéma minimal ci-dessous correspond aux colonnes de la requête d’insertion ; aucun script SQL n’est fourni dans le dépôt.
+
+```sql
+CREATE DATABASE IF NOT EXISTS stage
+  CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+
+USE stage;
+
+CREATE TABLE IF NOT EXISTS contact (
+    id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    nom VARCHAR(100) NOT NULL,
+    prenom VARCHAR(100) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    object VARCHAR(255) NOT NULL,
+    message TEXT NOT NULL
+);
+```
+
+### 5. Démarrer Flask
+
+Exécuter depuis la racine du dépôt, car les chemins du modèle et du CSV sont relatifs au répertoire courant :
 
 ```bash
 python app.py
 ```
 
-Ouvrir [http://127.0.0.1:5000](http://127.0.0.1:5000). Le code actuel écoute sur `0.0.0.0:5000`, donc sur les interfaces réseau disponibles.
+Ouvrir [http://127.0.0.1:5000](http://127.0.0.1:5000). Le serveur est configuré sur `0.0.0.0:5000`, avec le mode debug désactivé.
 
-Les fichiers de `models/` et `data/final_data.csv` sont chargés au démarrage. MySQL est utilisé lors de l'envoi d'un message de contact : le code attend une base `stage` et une table `contact` avec les colonnes `nom`, `prenom`, `email`, `object` et `message`. Aucun script de création de cette base n'est fourni.
+## Routes de l’application
 
-La connexion utilise actuellement `localhost`, l'utilisateur `root` et un mot de passe vide. Remplacer cette configuration par des variables d'environnement et un compte dédié avant tout déploiement.
-
-Ne charger des fichiers pickle que lorsqu'ils proviennent d'une source de confiance.
-
-## Évaluation et limites connues
-
-**Le score de 90 % affiché dans l'interface n'est pas une mesure calculée par l'application.** Le serveur fixe `score = 0.90` et le template affiche `R² Score : 90%`. Un R² n'est pas une probabilité de justesse pour un bien individuel.
-
-À titre de trace d'expérimentation, les sorties enregistrées de `notebook/notebook.ipynb` affichent notamment des R² de test d'environ **0,758** et **0,829** pour deux expériences Random Forest, avec des configurations différentes. Ces valeurs n'ont pas été recalculées lors de cette revue et ne certifient pas les performances du fichier `.pkl` distribué.
-
-Le notebook ajuste les encodeurs et le scaler avant la séparation entraînement/test, ce qui introduit une fuite d'information. Il réutilise aussi plusieurs variables de modèles et réentraîne `rf` sur l'ensemble des données avant une cellule d'export de cette variable. Il faut rendre la chaîne d'entraînement et d'export explicite pour relier chaque modèle à son évaluation.
-
-Autres limites de l'application :
-
-- Les encodeurs sont réajustés à chaque requête sur le bien saisi et dix lignes tirées au hasard. Les codes des catégories peuvent ainsi différer de ceux de l'entraînement, et les encodeurs partagés sont modifiés entre requêtes.
-- Les entrées numériques et les catégories ne sont pas suffisamment validées côté serveur.
-- Le champ `City` est désactivé dans le formulaire et peut être absent des données envoyées ; la casse de la ville doit aussi correspondre aux données d'entraînement (`Casablanca`).
-- Les messages d'erreur internes sont renvoyés directement au navigateur.
-- Si la connexion MySQL échoue, le bloc de fermeture peut utiliser une variable `connection` non initialisée et masquer l'erreur d'origine.
-
-## Corrections prioritaires
-
-| Priorité | Modification | Objectif |
+| Méthode | Route | Rôle |
 | --- | --- | --- |
-| 1 | Conserver le prétraitement appris, supprimer le réajustement des encodeurs et l'échantillon aléatoire pendant la prédiction ; définir le traitement des catégories inconnues | Assurer des prédictions cohérentes avec l'entraînement |
-| 1 | Séparer les données avant tout ajustement, utiliser un pipeline, fixer les graines aléatoires et exporter ensemble prétraitement, modèle et métriques | Reproduire et vérifier les résultats |
-| 1 | Retirer le score fixe et publier R², MAE et RMSE sur un jeu de test indépendant, avec le protocole d'évaluation | Présenter des performances vérifiables |
-| 1 | Compléter les dépendances et tester l'installation dans un environnement vierge | Permettre à d'autres personnes d'exécuter le projet |
-| 2 | Valider les champs côté serveur, transmettre correctement `City`, normaliser les catégories et retourner des erreurs HTTP adaptées | Fiabiliser le formulaire et l'API |
-| 2 | Externaliser la configuration MySQL, fournir le schéma SQL et sécuriser la fermeture des connexions | Rendre le contact configurable et fonctionnel |
-| 2 | Ajouter des tests de prédiction répétée, d'entrées invalides et d'échec MySQL | Vérifier les comportements essentiels |
-| 3 | Nettoyer les cellules exploratoires et erreurs enregistrées des notebooks ; fournir une procédure d'entraînement reproductible | Faciliter la lecture et la maintenance |
-| 3 | Ajouter une capture de l'application et documenter la provenance des données et des images | Améliorer la présentation publique |
+| GET | `/` | Accueil |
+| GET | `/Prediction` | Formulaire de prédiction ; majuscule initiale requise |
+| GET | `/analyse` | Graphiques et intégration Power BI |
+| GET | `/about` | Présentation du projet |
+| GET | `/contact` | Formulaire de contact |
+| POST | `/predict` | Estimation à partir des dix caractéristiques du bien |
+| POST | `/SendContact` | Enregistrement d’un message dans MySQL |
 
-## Préparer la publication sur GitHub
+`/predict` lit des champs de formulaire et renvoie un texte JSON contenant `prediction` et `score`, ou `error`. `/SendContact` attend `nom`, `prenom`, `Email`, `Object` et `Message`, puis renvoie `Contact` ou `error`. Les réponses sont actuellement construites avec `json.dumps`, sans gestion explicite des codes HTTP d’erreur.
 
-- Examiner les fichiers **et l'historique Git** pour retirer tout secret ou contenu personnel avant publication ; remplacer tout secret déjà exposé.
-- Ajouter un `.gitignore` pour `.venv/`, `__pycache__/`, `.ipynb_checkpoints/`, `.env` et les fichiers locaux.
-- Vérifier les droits de publication des données et des images ; retirer ou remplacer les éléments dont la redistribution n'est pas autorisée.
-- Choisir une licence adaptée au code et ajouter un fichier `LICENSE`. Aucune licence n'est actuellement fournie dans le dépôt ; préciser séparément les droits sur les données et médias.
-- Retirer le fichier vide `git` à la racine s'il n'a pas d'utilité.
-- Corriger les points prioritaires ci-dessus et vérifier le parcours de prédiction avant de présenter l'application comme fonctionnelle.
+## État technique et améliorations
 
-Pour rendre le dépôt public avec un accès administrateur : ouvrir le dépôt sur GitHub, puis **Settings → General → Danger Zone → Change repository visibility → Change visibility**, choisir **Public** et suivre les confirmations. Voir la [documentation officielle GitHub](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility).
+L’examen du code et des notebooks fait ressortir les points suivants, à traiter pour fiabiliser le parcours de prédiction et rendre les résultats reproductibles.
 
-La visibilité publique permet de consulter le code. Pour proposer une démonstration web accessible aux visiteurs, un déploiement de l'application Flask doit être préparé séparément.
+| Priorité | Constat dans le dépôt | Amélioration à réaliser |
+| --- | --- | --- |
+| 1 | Les encodeurs sont réajustés sur la saisie et dix annonces aléatoires à chaque requête ; les objets partagés sont modifiés | Conserver les catégories apprises à l’entraînement, utiliser uniquement `transform` et définir le traitement des catégories inconnues |
+| 1 | Le champ `City` est désactivé et n’est pas transmis ; le sélecteur de quartier n’a pas de `name` | Envoyer explicitement `City=Casablanca` et `Localisation`, puis valider leur présence côté serveur |
+| 1 | `Floor` est désactivé pour les biens autres que les appartements ; le serveur appelle pourtant `float()` sur sa valeur | Transmettre une valeur explicite ou appliquer une valeur par défaut validée côté serveur |
+| 1 | Le formulaire utilise `maisons` alors que les données contiennent `Maisons`, et certains quartiers ont des espaces finaux | Harmoniser les catégories entre formulaire, données et encodeurs |
+| 1 | Le prétraitement est ajusté avant la séparation entraînement/test ; `rf` est ensuite réentraîné sur toutes les données avant son export | Séparer les données avant tout ajustement et exporter un pipeline associé à ses métriques et à sa configuration |
+| 1 | Le score présenté dans l’interface est fixe | Afficher uniquement des métriques issues d’une évaluation indépendante et documentée |
+| 2 | Les champs numériques et les catégories sont peu contrôlés côté serveur | Valider les types, les bornes et les valeurs autorisées ; renvoyer des erreurs explicites |
+| 2 | La page Contact charge le gestionnaire partagé qui soumet les formulaires à `/predict`, en plus de son gestionnaire `/SendContact` | Limiter chaque gestionnaire au formulaire concerné et traiter les erreurs dans l’interface |
+| 2 | La fermeture MySQL peut accéder à `connection` avant son initialisation si la connexion échoue | Initialiser les ressources et conditionner leur fermeture ; externaliser la configuration |
+| 2 | Les dépendances ne décrivent pas un environnement complet et reproductible | Compléter les fichiers de dépendances, séparer application et exploration, puis vérifier une installation vierge |
+| 3 | La page Analyse contient un texte sur Paris et une iframe intitulée `HR Dashboard` | Remplacer les contenus provisoires et vérifier la correspondance du rapport intégré avec les données immobilières |
+| 3 | Aucun test automatisé ni procédure d’entraînement autonome ne figure dans le dépôt | Ajouter des vérifications du formulaire, de la stabilité des prédictions et des échecs MySQL ; formaliser l’entraînement |
+
+Les captures du rapport documentent l’interface présentée durant le stage. Les points ci-dessus décrivent l’état du code actuel et les travaux nécessaires pour consolider l’application.
